@@ -2,8 +2,8 @@ import express, { Request, Response } from "express";
 import cors from "cors";
 import fs from "fs";
 import path from "path";
-import { parseLeadLines } from "../services/leadParser";
-import { analyzeLead } from "../services/analysisService";
+import { parseLeadLines } from "./services/leadParser";
+import { analyzeLead } from "./services/analysisService";
 
 const app = express();
 const PORT = process.env.PORT || 3001;

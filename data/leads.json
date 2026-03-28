@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "lead-001",
+    "rawInput": "https://www.houstonroofingonline.com",
+    "companyHint": "",
+    "website": "https://www.houstonroofingonline.com"
+  },
+  {
+    "id": "lead-002",
+    "rawInput": "BrightPlay Turf - Artificial Turf & Landscaping, Chicago IL",
+    "companyHint": "BrightPlay Turf - Artificial Turf & Landscaping, Chicago IL",
+    "website": ""
+  },
+  {
+    "id": "lead-003",
+    "rawInput": "https://www.springhilllandscaping.com",
+    "companyHint": "",
+    "website": "https://www.springhilllandscaping.com"
+  },
+  {
+    "id": "lead-004",
+    "rawInput": "Joe's Backyard Landscaping - Phoenix AZ",
+    "companyHint": "Joe's Backyard Landscaping - Phoenix AZ",
+    "website": ""
+  },
+  {
+    "id": "lead-005",
+    "rawInput": "https://www.centraltexasbarkery.com",
+    "companyHint": "",
+    "website": "https://www.centraltexasbarkery.com"
+  },
+  {
+    "id": "lead-006",
+    "rawInput": "Sunrise Plumbing & Drain Services - Tampa FL",
+    "companyHint": "Sunrise Plumbing & Drain Services - Tampa FL",
+    "website": ""
+  },
+  {
+    "id": "lead-007",
+    "rawInput": "https://www.denverlockandsafe.com",
+    "companyHint": "",
+    "website": "https://www.denverlockandsafe.com"
+  },
+  {
+    "id": "lead-008",
+    "rawInput": "Green Leaf Lawn Care - Columbus OH",
+    "companyHint": "Green Leaf Lawn Care - Columbus OH",
+    "website": ""
+  },
+  {
+    "id": "lead-009",
+    "rawInput": "https://www.redtruckbakery.com",
+    "companyHint": "",
+    "website": "https://www.redtruckbakery.com"
+  },
+  {
+    "id": "lead-010",
+    "rawInput": "Blue Ridge HVAC Services - Roanoke VA",
+    "companyHint": "Blue Ridge HVAC Services - Roanoke VA",
+    "website": ""
+  },
+  {
+    "id": "lead-011",
+    "rawInput": "Acme Roofing & Construction - Dallas TX",
+    "companyHint": "Acme Roofing & Construction - Dallas TX",
+    "website": ""
+  },
+  {
+    "id": "lead-012",
+    "rawInput": "https://www.bostonplumbing.com",
+    "companyHint": "",
+    "website": "https://www.bostonplumbing.com"
+  },
+  {
+    "id": "lead-013",
+    "rawInput": "Pacific Northwest Tree Care - Portland OR",
+    "companyHint": "Pacific Northwest Tree Care - Portland OR",
+    "website": ""
+  },
+  {
+    "id": "lead-014",
+    "rawInput": "Maple Street Auto Repair - Madison WI",
+    "companyHint": "Maple Street Auto Repair - Madison WI",
+    "website": ""
+  },
+  {
+    "id": "lead-015",
+    "rawInput": "https://www.piedmontmoving.com",
+    "companyHint": "",
+    "website": "https://www.piedmontmoving.com"
+  },
+  {
+    "id": "195ac722a53a",
+    "rawInput": "\"studentFullName\",\"classApplyingFor\",\"academicYearApplyingFor\",\"fatherName\",\"motherName\",\"parentMobileNumber\",\"parentEmailAddress\",\"city\",\"state\",\"enquiryType\",\"enquiryStatus\",\"assignedCounsellor\",\"followUpDate\",\"createdAt\"",
+    "companyHint": "",
+    "website": "https://\"studentfullname\",\"classapplyingfor\",\"academicyearapplyingfor\",\"fathername\",\"mothername\",\"parentmobilenumber\",\"parentemailaddress\",\"city\",\"state\",\"enquirytype\",\"enquirystatus\",\"assignedcounsellor\",\"followupdate\",\"createdat\"/"
+  },
+  {
+    "id": "205a4ffa6ef0",
+    "rawInput": "\"videet shetty\",\"Class 11\",\"2025-2026\",\"pranav shetty\",\"kavita shetty\",\"9876543210\",\"pranav@gmail.com\",\"Surat\",\"Gujarat \",\"Fee\",\"New\",\"\",\"\",\"2026-02-14T12:02:43.834Z\"",
+    "companyHint": "\"videet shetty\",\"Class 11\",\"2025-2026\",\"pranav shetty\",\"kavita shetty\",\"9876543210\",\"pranav@gmail.com\",\"Surat\",\"Gujarat \",\"Fee\",\"New\",\"\",\"\",\"2026-02-14T12:02:43.834Z\"",
+    "website": ""
+  },
+  {
+    "id": "ea3f1ee33564",
+    "rawInput": "\"Lokesh rahul\",\"Class 8\",\"2025-2026\",\"varun kumar\",\"kushi kumar\",\"9876543210\",\"varun@gmail.com\",\"Mumbai\",\"Maharashtra\",\"Fee\",\"New\",\"\",\"\",\"2026-02-14T11:55:44.122Z\"",
+    "companyHint": "\"Lokesh rahul\",\"Class 8\",\"2025-2026\",\"varun kumar\",\"kushi kumar\",\"9876543210\",\"varun@gmail.com\",\"Mumbai\",\"Maharashtra\",\"Fee\",\"New\",\"\",\"\",\"2026-02-14T11:55:44.122Z\"",
+    "website": ""
+  },
+  {
+    "id": "7178a8e1601e",
+    "rawInput": "Input domain name,Email address,Domain name,Organization,Country,State,City,Postal code,Street,Confidence score,Type,Number of sources,Pattern,First name,Last name,Department,Position,Position raw,Twitter handle,LinkedIn URL,Phone number,Company type,Industry,Source 1,Source 2,Source 3,Source 4,Source 5,Source 6,Source 7,Source 8,Source 9,Source 10,Source 11,Source 12,Source 13,Source 14,Source 15,Source 16,Source 17,Source 18,Source 19,Source 20,Source 21,Source 22,Source 23,Source 24,Source 25,Source 26,Source 27,Source 28,Source 29,Source 30",
+    "companyHint": "Input domain name,Email address,Domain name,Organization,Country,State,City,Postal code,Street,Confidence score,Type,Number of sources,Pattern,First name,Last name,Department,Position,Position raw,Twitter handle,LinkedIn URL,Phone number,Company type,Industry,Source 1,Source 2,Source 3,Source 4,Source 5,Source 6,Source 7,Source 8,Source 9,Source 10,Source 11,Source 12,Source 13,Source 14,Source 15,Source 16,Source 17,Source 18,Source 19,Source 20,Source 21,Source 22,Source 23,Source 24,Source 25,Source 26,Source 27,Source 28,Source 29,Source 30",
+    "website": ""
+  },
+  {
+    "id": "7585f1ad8248",
+    "rawInput": "wpastra.com,info@wpastra.com,wpastra.com,Astra,IN,,Pune,,,77,generic,1,,,,Support,,,,,,,Software Development,http://sitenerdy.com/astra-vs-kadence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "wpastra.com,info@wpastra.com,wpastra.com,Astra,IN,,Pune,,,77,generic,1,,,,Support,,,,,,,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://sitenerdy.com/astra-vs-kadence"
+  },
+  {
+    "id": "b09a6d29b9fb",
+    "rawInput": "wpastra.com,support@wpastra.com,wpastra.com,Astra,IN,,Pune,,,77,generic,2,,,,Support,,,,,,,Software Development,http://infopreneur.blog/astra-login,http://themewaves.com/how-to-edit-astra-theme-with-elementor,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "wpastra.com,support@wpastra.com,wpastra.com,Astra,IN,,Pune,,,77,generic,2,,,,Support,,,,,,,Software Development,,http://themewaves.com/how-to-edit-astra-theme-with-elementor,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://infopreneur.blog/astra-login"
+  },
+  {
+    "id": "309d13b69b5a",
+    "rawInput": "inkhive.com,rohit@inkhive.com,inkhive.com,InkHive,IN,,Chandīgarh,,,99,personal,1,{first},,,,,,,,,privately held,Software Development,http://mybeautifuladventures.com/2019/08/28/back-to-school-10-things-to-get-yourself-motivated-for-the-successful-academic-year,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "inkhive.com,rohit@inkhive.com,inkhive.com,InkHive,IN,,Chandīgarh,,,99,personal,1,{first},,,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://mybeautifuladventures.com/2019/08/28/back-to-school-10-things-to-get-yourself-motivated-for-the-successful-academic-year"
+  },
+  {
+    "id": "2323c30b3abf",
+    "rawInput": "inkhive.com,support@inkhive.com,inkhive.com,InkHive,IN,,Chandīgarh,,,98,generic,0,{first},,,Support,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "inkhive.com,support@inkhive.com,inkhive.com,InkHive,IN,,Chandīgarh,,,98,generic,0,{first},,,Support,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": ""
+  },
+  {
+    "id": "a0d56ca853e6",
+    "rawInput": "softaculous.com,parimal@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,94,personal,1,{first},Parimal,Shah,,Owner,Owner,,https://www.linkedin.com/in/parimal-shah-054238b3,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20parimal%20shah%20softaculous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "softaculous.com,parimal@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,94,personal,1,{first},Parimal,Shah,,Owner,Owner,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20parimal%20shah%20softaculous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/parimal-shah-054238b3"
+  },
+  {
+    "id": "44e659310845",
+    "rawInput": "softaculous.com,nikhil@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,93,personal,1,{first},Nikhil,Sharma,Sales,Sales Executive,Sales Executive,,https://www.linkedin.com/in/nikhil-sharma-444822122,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20nikhil%20sharma%20softaculous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "softaculous.com,nikhil@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,93,personal,1,{first},Nikhil,Sharma,Sales,Sales Executive,Sales Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20nikhil%20sharma%20softaculous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/nikhil-sharma-444822122"
+  },
+  {
+    "id": "617d383bccba",
+    "rawInput": "softaculous.com,support@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,92,generic,27,{first},,,Support,,,,,,privately held,Software Development,http://gofiber.vn/softaculous-la-gi-cai-dat-softaculous-tren-cpanel,http://webhostinggeeks.com/howto/how-to-install-centos-web-panelcwp-on-centos-6,http://softaculous.com/apps/files/letodms,http://softaculous.com/apps/libraries/jqplot,http://softaculous.com/apps/ecommerce/open_eshop,http://softaculous.com/review/cms_made_simple,http://softaculous.com/hosters,http://webuzo.com/privacy,http://sitemush.com/privacy-policy,http://cloudfly.vn/docs/su-dung-cac-tinh-nang-nang-cao-none/huong-dan-cai-dat-softaculous-tren-whmcpanel,http://azdigi.com/blog/webserver-panel/cpanel/huong-dan-cai-dat-softaculous-tren-whm-cpanel,http://iguru.gr/softaculous-hacked,http://forum.rootnode.pl/topic/2292-atak-na-softaculous,http://sitepad.com/privacy-policy,http://sovlow.com/install-vesta-host-control-panel-on-ubuntu-16-04-18-04-lts,http://ajuda.minas.com.br/hospedagem-de-sites/cpanel/softaculous/como-instalar-o-osclass-social-usando-o-softaculous,http://thelinuxfaq.com/163-how-to-install-softaculous-in-whm-cpanel,http://tutorialspots.com/vesta-control-panel-installation-new-update-2020-5437.html,http://azdigi.com/blog/en/webserver-panel-en/cpanel-en/how-to-install-softaculous-on-whm-cpanel,http://portaldohost.com.br/topic/29128-viola%c3%a7%c3%a3o-de-seguran%c3%a7a-softaculous-virtualizor-e-webuzo,http://virtualizor.com/docs/admin-api/license,http://softaculous.net,http://softaculous.net/careers,http://softaculous.net/apps,http://softaculous.net/partners,http://softaculous.net/noc-partners,http://cyberdaily.securelayer7.net/beware-of-internal-infrastructure-security-breaches-a-recent-attack-at-softaculous,,,",
+    "companyHint": "softaculous.com,support@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,92,generic,27,{first},,,Support,,,,,,privately held,Software Development,,http://webhostinggeeks.com/howto/how-to-install-centos-web-panelcwp-on-centos-6,http://softaculous.com/apps/files/letodms,http://softaculous.com/apps/libraries/jqplot,http://softaculous.com/apps/ecommerce/open_eshop,http://softaculous.com/review/cms_made_simple,http://softaculous.com/hosters,http://webuzo.com/privacy,http://sitemush.com/privacy-policy,http://cloudfly.vn/docs/su-dung-cac-tinh-nang-nang-cao-none/huong-dan-cai-dat-softaculous-tren-whmcpanel,http://azdigi.com/blog/webserver-panel/cpanel/huong-dan-cai-dat-softaculous-tren-whm-cpanel,http://iguru.gr/softaculous-hacked,http://forum.rootnode.pl/topic/2292-atak-na-softaculous,http://sitepad.com/privacy-policy,http://sovlow.com/install-vesta-host-control-panel-on-ubuntu-16-04-18-04-lts,http://ajuda.minas.com.br/hospedagem-de-sites/cpanel/softaculous/como-instalar-o-osclass-social-usando-o-softaculous,http://thelinuxfaq.com/163-how-to-install-softaculous-in-whm-cpanel,http://tutorialspots.com/vesta-control-panel-installation-new-update-2020-5437.html,http://azdigi.com/blog/en/webserver-panel-en/cpanel-en/how-to-install-softaculous-on-whm-cpanel,http://portaldohost.com.br/topic/29128-viola%c3%a7%c3%a3o-de-seguran%c3%a7a-softaculous-virtualizor-e-webuzo,http://virtualizor.com/docs/admin-api/license,http://softaculous.net,http://softaculous.net/careers,http://softaculous.net/apps,http://softaculous.net/partners,http://softaculous.net/noc-partners,http://cyberdaily.securelayer7.net/beware-of-internal-infrastructure-security-breaches-a-recent-attack-at-softaculous,,,",
+    "website": "http://gofiber.vn/softaculous-la-gi-cai-dat-softaculous-tren-cpanel"
+  },
+  {
+    "id": "f210a5e87b7a",
+    "rawInput": "softaculous.com,sales@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,91,generic,24,{first},,,Sales,,,,,,privately held,Software Development,http://ampps.com/blog/ampps-1-0-is-out,http://softaculous.com/apps/files/letodms,http://softaculous.com/apps/libraries/jqplot,http://softaculous.com/apps/ecommerce/open_eshop,http://softaculous.com/review/cms_made_simple,http://softaculous.com/hosters,http://ampps.com/apps,http://webuzo.com/docs/admin/renewing-license,http://webuzo.com/blog/softaculous-licensing-update,http://ampps.com/blog/tag/axis,http://ampps.com/blog/tag/phorum,http://ampps.com/blog/author/alons/page/51,http://repositery.com/tos,http://repositery.com/blog/repositery-has-just-been-launched,http://repositery.com/contact,http://repositery.com,http://softaculous.net,http://repositery.com/blog/2018/12,http://softaculous.net/careers,http://softaculous.net/apps,http://softaculous.net/partners,http://softaculous.net/noc-partners,http://forums.classicpress.net/t/classicpress-one-click-install-discussion/525,http://forums.classicpress.net/t/classicpress-one-click-install-discussion/525/2,,,,,,",
+    "companyHint": "softaculous.com,sales@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,91,generic,24,{first},,,Sales,,,,,,privately held,Software Development,,http://softaculous.com/apps/files/letodms,http://softaculous.com/apps/libraries/jqplot,http://softaculous.com/apps/ecommerce/open_eshop,http://softaculous.com/review/cms_made_simple,http://softaculous.com/hosters,http://ampps.com/apps,http://webuzo.com/docs/admin/renewing-license,http://webuzo.com/blog/softaculous-licensing-update,http://ampps.com/blog/tag/axis,http://ampps.com/blog/tag/phorum,http://ampps.com/blog/author/alons/page/51,http://repositery.com/tos,http://repositery.com/blog/repositery-has-just-been-launched,http://repositery.com/contact,http://repositery.com,http://softaculous.net,http://repositery.com/blog/2018/12,http://softaculous.net/careers,http://softaculous.net/apps,http://softaculous.net/partners,http://softaculous.net/noc-partners,http://forums.classicpress.net/t/classicpress-one-click-install-discussion/525,http://forums.classicpress.net/t/classicpress-one-click-install-discussion/525/2,,,,,,",
+    "website": "http://ampps.com/blog/ampps-1-0-is-out"
+  },
+  {
+    "id": "3959f1e9a914",
+    "rawInput": "softaculous.com,jobs@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,90,generic,11,{first},,,HR,,,,,,privately held,Software Development,http://vircode.xyz/2023/09/php-developer-job.html,http://mcaclash.com/jobs,http://forum.qt.io/topic/24391/job-for-qt-developer-at-mumbai-location,http://fresheritjobz.blogspot.com/2011_11_07_archive.html,http://fresheritjobz.blogspot.com/2011_10_18_archive.html,http://job-requirement.blogspot.com/2012/09/softaculous-careers-2012.html,http://forums.techarena.in/education-career-job-discussions/1467156.htm,http://freshersadda.com/jobsbycitydetails/9134/softaculous-recruits-fresher---exp-walk-in-mumbai.html,http://spotinfo24.blogspot.com/2011/12/softaculous-recruiting-linux-developers.html,http://softaculous.net/careers,http://softaculous.com/careers,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "softaculous.com,jobs@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,90,generic,11,{first},,,HR,,,,,,privately held,Software Development,,http://mcaclash.com/jobs,http://forum.qt.io/topic/24391/job-for-qt-developer-at-mumbai-location,http://fresheritjobz.blogspot.com/2011_11_07_archive.html,http://fresheritjobz.blogspot.com/2011_10_18_archive.html,http://job-requirement.blogspot.com/2012/09/softaculous-careers-2012.html,http://forums.techarena.in/education-career-job-discussions/1467156.htm,http://freshersadda.com/jobsbycitydetails/9134/softaculous-recruits-fresher---exp-walk-in-mumbai.html,http://spotinfo24.blogspot.com/2011/12/softaculous-recruiting-linux-developers.html,http://softaculous.net/careers,http://softaculous.com/careers,,,,,,,,,,,,,,,,,,,",
+    "website": "http://vircode.xyz/2023/09/php-developer-job.html"
+  },
+  {
+    "id": "e8dc847738f1",
+    "rawInput": "softaculous.com,pulkit@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,89,personal,1,{first},Pulkit,Gupta,Management,Director,Director,,https://www.linkedin.com/in/pulkitgupta2,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20pulkit%20gupta%20softaculous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "softaculous.com,pulkit@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,89,personal,1,{first},Pulkit,Gupta,Management,Director,Director,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20pulkit%20gupta%20softaculous,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/pulkitgupta2"
+  },
+  {
+    "id": "f9c1837d6ec4",
+    "rawInput": "softaculous.com,billing@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,88,generic,9,{first},,,Finance,,,,,,privately held,Software Development,http://wpcentral.co/terms,http://sitemush.com/terms,http://ampps.com/terms,http://sitepad.com/terms,http://repositery.com/tos,http://softaculous.net/terms-of-service,http://softaculous.com/softaculous/tos,http://softaculous.com/tos,http://softaculous.com/terms-of-service,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "softaculous.com,billing@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,88,generic,9,{first},,,Finance,,,,,,privately held,Software Development,,http://sitemush.com/terms,http://ampps.com/terms,http://sitepad.com/terms,http://repositery.com/tos,http://softaculous.net/terms-of-service,http://softaculous.com/softaculous/tos,http://softaculous.com/tos,http://softaculous.com/terms-of-service,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://wpcentral.co/terms"
+  },
+  {
+    "id": "3b6d3ba22958",
+    "rawInput": "softaculous.com,demos@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,87,personal,5,{first},,,,,,,,,privately held,Software Development,http://boonex.com/forums/topic/show-your-dolphin-websites-.htm,http://demos.softaculous.com/prestashop,http://cheetahwsb.com/forum/topic/cover-photo.htm,http://community.invoiceplane.com/t/topic/8809,http://api.softaculous.com/scripts.php,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "softaculous.com,demos@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,87,personal,5,{first},,,,,,,,,privately held,Software Development,,http://demos.softaculous.com/prestashop,http://cheetahwsb.com/forum/topic/cover-photo.htm,http://community.invoiceplane.com/t/topic/8809,http://api.softaculous.com/scripts.php,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://boonex.com/forums/topic/show-your-dolphin-websites-.htm"
+  },
+  {
+    "id": "af5cabeed82a",
+    "rawInput": "softaculous.com,abhijeet@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,86,personal,5,{first},,,,,,,,,privately held,Software Development,http://virtualizor.com/docs/admin-api/import-openvz7,http://virtualizor.com/docs/admin-api/import-xen,http://virtualizor.com/docs/admin-api/import-xen-server,http://virtualizor.com/docs/admin-api/import-kvm,http://virtualizor.com/docs/admin-api/import-openvz,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "softaculous.com,abhijeet@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,86,personal,5,{first},,,,,,,,,privately held,Software Development,,http://virtualizor.com/docs/admin-api/import-xen,http://virtualizor.com/docs/admin-api/import-xen-server,http://virtualizor.com/docs/admin-api/import-kvm,http://virtualizor.com/docs/admin-api/import-openvz,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://virtualizor.com/docs/admin-api/import-openvz7"
+  },
+  {
+    "id": "d2562eff2e33",
+    "rawInput": "softaculous.com,punit@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,85,personal,3,{first},,,,,,,,,privately held,Software Development,http://jamaicaclassified.site/2024/07/04/customer-service-rep-needed,http://solutionsnservices.com/szp-json,http://solutionsnservices.com/feed,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "softaculous.com,punit@softaculous.com,softaculous.com,Softaculous,IN,,Mumbai,,,85,personal,3,{first},,,,,,,,,privately held,Software Development,,http://solutionsnservices.com/szp-json,http://solutionsnservices.com/feed,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://jamaicaclassified.site/2024/07/04/customer-service-rep-needed"
+  },
+  {
+    "id": "5b61174228d4",
+    "rawInput": "sureprep.com,jill.grinnell@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,99,personal,1,{first}.{last},Jill,Grinnell,Sales,Account Executive,Account Executive,,https://www.linkedin.com/in/jill-schmidt-grinnell-74156611,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20jill%20grinnell%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,jill.grinnell@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,99,personal,1,{first}.{last},Jill,Grinnell,Sales,Account Executive,Account Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20jill%20grinnell%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/jill-schmidt-grinnell-74156611"
+  },
+  {
+    "id": "0f0fd7a6a96e",
+    "rawInput": "sureprep.com,sudeep.jha@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,99,personal,1,{first}.{last},Sudeep,Jha,IT / Engineering,Vice President of Software Development,VP of Software Development,,https://www.linkedin.com/in/sudeep-jha-4070524,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sudeep%20jha%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,sudeep.jha@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,99,personal,1,{first}.{last},Sudeep,Jha,IT / Engineering,Vice President of Software Development,VP of Software Development,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sudeep%20jha%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sudeep-jha-4070524"
+  },
+  {
+    "id": "87f8979b452c",
+    "rawInput": "sureprep.com,dwyle@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,99,personal,1,{first}.{last},David,Wyle,Executive,President And Ceo,President And Ceo,\"\",\"\",\"\",privately held,Software Development,http://mkpacpa.com/hands-off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,dwyle@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,99,personal,1,{first}.{last},David,Wyle,Executive,President And Ceo,President And Ceo,\"\",\"\",\"\",privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://mkpacpa.com/hands-off"
+  },
+  {
+    "id": "6f9fe25feacc",
+    "rawInput": "sureprep.com,michelle.gonzales@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,98,personal,1,{first}.{last},Michelle,Gonzales,Management,Director of Administration,Director Of Administration,,https://www.linkedin.com/in/michelle-ruhl-gonzales-a519b98,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20michelle%20gonzales%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,michelle.gonzales@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,98,personal,1,{first}.{last},Michelle,Gonzales,Management,Director of Administration,Director Of Administration,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20michelle%20gonzales%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/michelle-ruhl-gonzales-a519b98"
+  },
+  {
+    "id": "ce4e461e9d84",
+    "rawInput": "sureprep.com,andrew.breeding@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,98,personal,1,{first}.{last},Andrew,Breeding,,Product Owner,Product Owner,,https://www.linkedin.com/in/andrew-breeding-8323b96b,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20andrew%20breeding%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,andrew.breeding@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,98,personal,1,{first}.{last},Andrew,Breeding,,Product Owner,Product Owner,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20andrew%20breeding%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/andrew-breeding-8323b96b"
+  },
+  {
+    "id": "26c19f17c1af",
+    "rawInput": "sureprep.com,randall.pitts@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,98,personal,1,{first}.{last},Randall,Pitts,IT / Engineering,Director of Information Security,Director of Information Security,,https://www.linkedin.com/in/randall-pitts-94937488,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20randall%20pitts%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,randall.pitts@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,98,personal,1,{first}.{last},Randall,Pitts,IT / Engineering,Director of Information Security,Director of Information Security,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20randall%20pitts%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/randall-pitts-94937488"
+  },
+  {
+    "id": "b509acd0efdf",
+    "rawInput": "sureprep.com,erica.yedor@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,97,personal,1,{first}.{last},Erica,Yedor,Sales,Sales Executive,Sales Executive,,https://www.linkedin.com/in/erica-yedor-85356a59,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20erica%20yedor%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,erica.yedor@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,97,personal,1,{first}.{last},Erica,Yedor,Sales,Sales Executive,Sales Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20erica%20yedor%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/erica-yedor-85356a59"
+  },
+  {
+    "id": "a2af3d38bbf7",
+    "rawInput": "sureprep.com,roshan.pavithran@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,97,personal,1,{first}.{last},Roshan,Pavithran,IT / Engineering,Director of Database Engineering,\"Director, Database Engineering\",,https://www.linkedin.com/in/roshan-pavithran-681b0b53,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20roshan%20pavithran%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,roshan.pavithran@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,97,personal,1,{first}.{last},Roshan,Pavithran,IT / Engineering,Director of Database Engineering,\"Director, Database Engineering\",,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20roshan%20pavithran%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/roshan-pavithran-681b0b53"
+  },
+  {
+    "id": "5510a5646c52",
+    "rawInput": "sureprep.com,cathleen.foley@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,97,personal,1,{first}.{last},Cathleen,Foley,,,,,,,privately held,Software Development,http://surepreptransform.com/about,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,cathleen.foley@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,97,personal,1,{first}.{last},Cathleen,Foley,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://surepreptransform.com/about"
+  },
+  {
+    "id": "d66e12229bb9",
+    "rawInput": "sureprep.com,ganesh.mhetre@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,96,personal,1,{first}.{last},Ganesh,Mhetre,Operations & logistics,Back Office Executive,Back Office Executive,,https://www.linkedin.com/in/ganesh-mhetre-b58271167,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20ganesh%20mhetre%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "sureprep.com,ganesh.mhetre@sureprep.com,sureprep.com,SurePrep,IN,,Mumbai,,,96,personal,1,{first}.{last},Ganesh,Mhetre,Operations & logistics,Back Office Executive,Back Office Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20ganesh%20mhetre%20sureprep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/ganesh-mhetre-b58271167"
+  },
+  {
+    "id": "302530dcfaa0",
+    "rawInput": "zymphonies.com,support@zymphonies.com,zymphonies.com,Zymphonies,IN,,Cochin,,,94,generic,7,,,,Support,,,,,,privately held,Software Development,http://dgrpack.com/location,http://zymphonies.com/contact/location,http://zymphonies.com/index.php/contact/customer-service,http://zymphonies.com/index.php/contact/location,http://zymphonies.com/contact/customer-service,http://demo.zymphonies.com/free-theme/d8/drupal8-parallax-theme/index,http://hqsft.com/index.php/contact,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zymphonies.com,support@zymphonies.com,zymphonies.com,Zymphonies,IN,,Cochin,,,94,generic,7,,,,Support,,,,,,privately held,Software Development,,http://zymphonies.com/contact/location,http://zymphonies.com/index.php/contact/customer-service,http://zymphonies.com/index.php/contact/location,http://zymphonies.com/contact/customer-service,http://demo.zymphonies.com/free-theme/d8/drupal8-parallax-theme/index,http://hqsft.com/index.php/contact,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://dgrpack.com/location"
+  },
+  {
+    "id": "c48dd6c1ecdb",
+    "rawInput": "zymphonies.com,sales@zymphonies.com,zymphonies.com,Zymphonies,IN,,Cochin,,,80,generic,3,,,,Sales,,,,,,privately held,Software Development,http://zymphonies.com/index.php/contact/customer-service,http://zymphonies.com/contact/customer-service,http://ithistory.org/db/companies/zymphonies-technologies,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zymphonies.com,sales@zymphonies.com,zymphonies.com,Zymphonies,IN,,Cochin,,,80,generic,3,,,,Sales,,,,,,privately held,Software Development,,http://zymphonies.com/contact/customer-service,http://ithistory.org/db/companies/zymphonies-technologies,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://zymphonies.com/index.php/contact/customer-service"
+  },
+  {
+    "id": "3c14009e9284",
+    "rawInput": "zymphonies.com,mail@zymphonies.com,zymphonies.com,Zymphonies,IN,,Cochin,,,76,generic,2,,,,Support,,,,,,privately held,Software Development,http://zymphonies.com/blog/how-install-git,http://zymphonies.com/index.php/blog/how-install-git,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zymphonies.com,mail@zymphonies.com,zymphonies.com,Zymphonies,IN,,Cochin,,,76,generic,2,,,,Support,,,,,,privately held,Software Development,,http://zymphonies.com/index.php/blog/how-install-git,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://zymphonies.com/blog/how-install-git"
+  },
+  {
+    "id": "a0137b557430",
+    "rawInput": "malcare.com,akshat@malcare.com,malcare.com,MalCare,IN,,Bengaluru,,,99,personal,1,{first},Akshat,Choudhary,,\"\",\"\",\"\",\"\",\"\",privately held,Software Development,http://malcare.com/about,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "malcare.com,akshat@malcare.com,malcare.com,MalCare,IN,,Bengaluru,,,99,personal,1,{first},Akshat,Choudhary,,\"\",\"\",\"\",\"\",\"\",privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://malcare.com/about"
+  },
+  {
+    "id": "a0f5afa35419",
+    "rawInput": "malcare.com,support@malcare.com,malcare.com,MalCare,IN,,Bengaluru,,,95,generic,30,{first},,,Support,,,,,,privately held,Software Development,http://sr.wordpress.org/plugins/malcare-security,http://az-tr.wordpress.org/plugins/malcare-security,http://malcare.com/contact,http://malcare.com/malcare-for-agencies,http://tzm.wordpress.org/plugins/malcare-security,http://es-do.wordpress.org/plugins/malcare-security,http://lug.wordpress.org/plugins/malcare-security,http://me.wordpress.org/plugins/malcare-security,http://bn.wordpress.org/plugins/malcare-security,http://fon.wordpress.org/plugins/malcare-security,http://twd.wordpress.org/plugins/malcare-security,http://zgh.wordpress.org/plugins/malcare-security,http://tt.wordpress.org/plugins/malcare-security,http://kea.wordpress.org/plugins/malcare-security,http://lij.wordpress.org/plugins/malcare-security,http://is.wordpress.org/plugins/malcare-security,http://kmr.wordpress.org/plugins/malcare-security,http://bs.wordpress.org/plugins/malcare-security,http://hr.wordpress.org/plugins/malcare-security,http://vi.wordpress.org/plugins/malcare-security,http://kin.wordpress.org/plugins/malcare-security,http://pt-ao.wordpress.org/plugins/malcare-security,http://begindot.com/product/malcare,http://begindot.com/product/woocommerce-product-filter-by-woobewoo,http://soninow.com/wp/plugins/malcare-security,http://fur.wordpress.org/plugins/malcare-security,http://hu.wordpress.org/plugins/malcare-security,http://tg.wordpress.org/plugins/malcare-security,http://vec.wordpress.org/plugins/malcare-security,http://nn.wordpress.org/plugins/malcare-security",
+    "companyHint": "malcare.com,support@malcare.com,malcare.com,MalCare,IN,,Bengaluru,,,95,generic,30,{first},,,Support,,,,,,privately held,Software Development,,http://az-tr.wordpress.org/plugins/malcare-security,http://malcare.com/contact,http://malcare.com/malcare-for-agencies,http://tzm.wordpress.org/plugins/malcare-security,http://es-do.wordpress.org/plugins/malcare-security,http://lug.wordpress.org/plugins/malcare-security,http://me.wordpress.org/plugins/malcare-security,http://bn.wordpress.org/plugins/malcare-security,http://fon.wordpress.org/plugins/malcare-security,http://twd.wordpress.org/plugins/malcare-security,http://zgh.wordpress.org/plugins/malcare-security,http://tt.wordpress.org/plugins/malcare-security,http://kea.wordpress.org/plugins/malcare-security,http://lij.wordpress.org/plugins/malcare-security,http://is.wordpress.org/plugins/malcare-security,http://kmr.wordpress.org/plugins/malcare-security,http://bs.wordpress.org/plugins/malcare-security,http://hr.wordpress.org/plugins/malcare-security,http://vi.wordpress.org/plugins/malcare-security,http://kin.wordpress.org/plugins/malcare-security,http://pt-ao.wordpress.org/plugins/malcare-security,http://begindot.com/product/malcare,http://begindot.com/product/woocommerce-product-filter-by-woobewoo,http://soninow.com/wp/plugins/malcare-security,http://fur.wordpress.org/plugins/malcare-security,http://hu.wordpress.org/plugins/malcare-security,http://tg.wordpress.org/plugins/malcare-security,http://vec.wordpress.org/plugins/malcare-security,http://nn.wordpress.org/plugins/malcare-security",
+    "website": "http://sr.wordpress.org/plugins/malcare-security"
+  },
+  {
+    "id": "46dd93b57526",
+    "rawInput": "malcare.com,hacked@malcare.com,malcare.com,MalCare,IN,,Bengaluru,,,75,generic,1,{first},,,,,,,,,privately held,Software Development,http://snicco.io/vulnerability-disclosure/malcare/site-takeover-through-stolen-api-credentials-in-combination-with-sqli-malcare-5-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "malcare.com,hacked@malcare.com,malcare.com,MalCare,IN,,Bengaluru,,,75,generic,1,{first},,,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://snicco.io/vulnerability-disclosure/malcare/site-takeover-through-stolen-api-credentials-in-combination-with-sqli-malcare-5-09"
+  },
+  {
+    "id": "a8f5efdd1ada",
+    "rawInput": "salttechno.com,uttarac@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,99,personal,1,{first}{l},Uttara,Chaudhari,Marketing,Digital Marketing Manager,Digital Marketing Executive,,https://www.linkedin.com/in/uttara-chaudhari-734422213,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20uttara%20chaudhari%20salttechno,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "salttechno.com,uttarac@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,99,personal,1,{first}{l},Uttara,Chaudhari,Marketing,Digital Marketing Manager,Digital Marketing Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20uttara%20chaudhari%20salttechno,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/uttara-chaudhari-734422213"
+  },
+  {
+    "id": "0c801b4735cd",
+    "rawInput": "salttechno.com,sujayb@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,99,personal,2,{first}{l},Sujay,Bhagwat,Executive,Chief Operating Officer,COO/CFO,\"\",https://www.linkedin.com/in/sujayb,\"\",privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sujay%20bhagwat%20salttechno,http://salttechno.com/about-us/our-story,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "salttechno.com,sujayb@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,99,personal,2,{first}{l},Sujay,Bhagwat,Executive,Chief Operating Officer,COO/CFO,\"\",,\"\",privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sujay%20bhagwat%20salttechno,http://salttechno.com/about-us/our-story,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sujayb"
+  },
+  {
+    "id": "93ea7edaea45",
+    "rawInput": "salttechno.com,nileshg@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,98,personal,3,{first}{l},Nilesh,Gadekar,Executive,CEO,Founder & CEO,,https://www.linkedin.com/in/gadekarn,,privately held,Software Development,http://rajdeepgroup.com/author/salttechno,http://nileshg8.sg-host.com/author/salttechno,https://www.google.com/search?q=site:linkedin.com%20nilesh%20gadekar%20salttechno,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "salttechno.com,nileshg@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,98,personal,3,{first}{l},Nilesh,Gadekar,Executive,CEO,Founder & CEO,,,,privately held,Software Development,http://rajdeepgroup.com/author/salttechno,http://nileshg8.sg-host.com/author/salttechno,https://www.google.com/search?q=site:linkedin.com%20nilesh%20gadekar%20salttechno,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/gadekarn"
+  },
+  {
+    "id": "d37930d7cb3f",
+    "rawInput": "salttechno.com,tomw@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,97,personal,1,{first}{l},Tom,Wood,Sales,Business Development Manager,Business Development Manager,,https://www.linkedin.com/in/tom-wood-jr-5404346,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20tom%20wood%20salttechno,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "salttechno.com,tomw@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,97,personal,1,{first}{l},Tom,Wood,Sales,Business Development Manager,Business Development Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20tom%20wood%20salttechno,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/tom-wood-jr-5404346"
+  },
+  {
+    "id": "36915a4df329",
+    "rawInput": "salttechno.com,support@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,96,generic,2,{first}{l},,,Support,,,,,,privately held,Software Development,http://mybiz.talentcloud.jp/services,http://mybiz.talentcloud.jp/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "salttechno.com,support@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,96,generic,2,{first}{l},,,Support,,,,,,privately held,Software Development,,http://mybiz.talentcloud.jp/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://mybiz.talentcloud.jp/services"
+  },
+  {
+    "id": "87bdc59470ca",
+    "rawInput": "salttechno.com,sales@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,95,generic,11,{first}{l},,,Sales,,,,,,privately held,Software Development,http://itempire.ae/software-houses-in-dubai,http://mybiz.talentcloud.jp/services,http://salttechno.com/contact-us,http://salttechno.com/wordpress-development,http://salttechno.com/laravel-development,http://salttechno.com/blog/case_studies_category/website-redesign,http://salttechno.com/quality-assurance-software-testing,http://saltthemes.com/docs/bizpoint/faqs-bizpoint,http://topics448.rssing.com/chan-14641258/all_p1923.html,http://mybiz.talentcloud.jp/about-us,http://wypages.com/2019/07/web-designers-in-pune.html,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "salttechno.com,sales@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,95,generic,11,{first}{l},,,Sales,,,,,,privately held,Software Development,,http://mybiz.talentcloud.jp/services,http://salttechno.com/contact-us,http://salttechno.com/wordpress-development,http://salttechno.com/laravel-development,http://salttechno.com/blog/case_studies_category/website-redesign,http://salttechno.com/quality-assurance-software-testing,http://saltthemes.com/docs/bizpoint/faqs-bizpoint,http://topics448.rssing.com/chan-14641258/all_p1923.html,http://mybiz.talentcloud.jp/about-us,http://wypages.com/2019/07/web-designers-in-pune.html,,,,,,,,,,,,,,,,,,,",
+    "website": "http://itempire.ae/software-houses-in-dubai"
+  },
+  {
+    "id": "10d809c75224",
+    "rawInput": "salttechno.com,nishantb@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,91,personal,1,{first}{l},Nishant,Bohra,,\"\",\"\",,https://www.linkedin.com/in/nishant-bohra-0403b6162,,privately held,Software Development,http://websitedirectoryfree.com/page/digital-services/affordable-wordpress-and-digital-marketing-solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "salttechno.com,nishantb@salttechno.com,salttechno.com,Salt Technologies,IN,,Pune,,,91,personal,1,{first}{l},Nishant,Bohra,,\"\",\"\",,,,privately held,Software Development,http://websitedirectoryfree.com/page/digital-services/affordable-wordpress-and-digital-marketing-solutions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/nishant-bohra-0403b6162"
+  },
+  {
+    "id": "f72fb14df958",
+    "rawInput": "blogvault.net,rohan@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,99,personal,1,{first},Rohan,Francis,Marketing,Brand Marketing Manager,Brand Marketing Lead,,https://www.linkedin.com/in/rohan-julian-francis-36bb8a107,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20rohan%20francis%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,rohan@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,99,personal,1,{first},Rohan,Francis,Marketing,Brand Marketing Manager,Brand Marketing Lead,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20rohan%20francis%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/rohan-julian-francis-36bb8a107"
+  },
+  {
+    "id": "13fb377011d4",
+    "rawInput": "blogvault.net,preetham@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,99,personal,1,{first},Preetham,Phirangi,Management,HR Manager,HR Manager,,https://www.linkedin.com/in/preetham-phirangi,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20preetham%20phirangi%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,preetham@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,99,personal,1,{first},Preetham,Phirangi,Management,HR Manager,HR Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20preetham%20phirangi%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/preetham-phirangi"
+  },
+  {
+    "id": "5a4ab7fede9c",
+    "rawInput": "blogvault.net,ritesh@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,99,personal,1,{first},Ritesh,Soni,IT / Engineering,Director of Engineering,Director of Engineering,,https://www.linkedin.com/in/ritesh-soni-0a609121,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20ritesh%20soni%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,ritesh@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,99,personal,1,{first},Ritesh,Soni,IT / Engineering,Director of Engineering,Director of Engineering,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20ritesh%20soni%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/ritesh-soni-0a609121"
+  },
+  {
+    "id": "306be984c1cd",
+    "rawInput": "blogvault.net,jharna@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,98,personal,1,{first},Jharna,Narang,Marketing,Digital Marketing Specialist,Digital Marketing Specialist,,https://www.linkedin.com/in/jharna-narang-446b9b114,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20jharna%20narang%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,jharna@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,98,personal,1,{first},Jharna,Narang,Marketing,Digital Marketing Specialist,Digital Marketing Specialist,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20jharna%20narang%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/jharna-narang-446b9b114"
+  },
+  {
+    "id": "3ce6e0b9a8db",
+    "rawInput": "blogvault.net,karishma@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,98,personal,2,{first},Karishma,Sundaram,Executive,Director of Operations,Director of Operations,\"\",https://www.linkedin.com/in/karishmasundaram,\"\",privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20karishma%20sundaram%20blogvault,http://blogvault.net/backup-wordpress-site,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,karishma@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,98,personal,2,{first},Karishma,Sundaram,Executive,Director of Operations,Director of Operations,\"\",,\"\",privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20karishma%20sundaram%20blogvault,http://blogvault.net/backup-wordpress-site,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/karishmasundaram"
+  },
+  {
+    "id": "ed8ca132c514",
+    "rawInput": "blogvault.net,loveena@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,97,personal,1,{first},Loveena,Reddy,Marketing,Marketing Manager,Marketing Manager,,https://www.linkedin.com/in/loveena-reddy-43ab55148,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20loveena%20reddy%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,loveena@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,97,personal,1,{first},Loveena,Reddy,Marketing,Marketing Manager,Marketing Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20loveena%20reddy%20blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/loveena-reddy-43ab55148"
+  },
+  {
+    "id": "945e7c0c5acf",
+    "rawInput": "blogvault.net,cakshat@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,97,personal,4,{first},Choudhary,Akshat,,Specialist,Specialist,\"\",\"\",\"\",privately held,Software Development,http://johnoverall.com/interview-51-with-akshat-choudhary-from-blogvault,http://ostraining.com/blog/wordpress/multisite-vs-multiple-sites,http://ostraining.com/blog/wordpress/testing-wordpress-backups,http://wppluginsatoz.com/interview-51-with-akshat-choudhary-from-blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,cakshat@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,97,personal,4,{first},Choudhary,Akshat,,Specialist,Specialist,\"\",\"\",\"\",privately held,Software Development,,http://ostraining.com/blog/wordpress/multisite-vs-multiple-sites,http://ostraining.com/blog/wordpress/testing-wordpress-backups,http://wppluginsatoz.com/interview-51-with-akshat-choudhary-from-blogvault,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://johnoverall.com/interview-51-with-akshat-choudhary-from-blogvault"
+  },
+  {
+    "id": "043f82f457c2",
+    "rawInput": "blogvault.net,support@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,96,generic,30,{first},,,Support,,,,,,privately held,Software Development,http://th.wordpress.org/plugins/blogvault-real-time-backup,http://pan.wordpress.org/plugins/blogvault-real-time-backup,http://tzm.wordpress.org/plugins/blogvault-real-time-backup,http://km.wordpress.org/plugins/blogvault-real-time-backup,http://rhg.wordpress.org/plugins/blogvault-real-time-backup,http://twd.wordpress.org/plugins/blogvault-real-time-backup,http://fon.wordpress.org/plugins/blogvault-real-time-backup,http://sv.wordpress.org/plugins/blogvault-real-time-backup,http://migrateguru.freshdesk.com/support/solutions/articles/33000096705-what-if-there-is-malware-on-my-original-site-source-site-,http://blogvault.net/contact,http://vi.wordpress.org/plugins/blogvault-real-time-backup,http://skr.wordpress.org/plugins/blogvault-real-time-backup,http://zgh.wordpress.org/plugins/blogvault-real-time-backup,http://tt.wordpress.org/plugins/blogvault-real-time-backup,http://cor.wordpress.org/plugins/blogvault-real-time-backup,http://ro.wordpress.org/plugins/blogvault-real-time-backup,http://kea.wordpress.org/plugins/blogvault-real-time-backup,http://it.wordpress.org/plugins/blogvault-real-time-backup,http://es.wordpress.org/plugins/blogvault-real-time-backup,http://kin.wordpress.org/plugins/blogvault-real-time-backup,http://pe.wordpress.org/plugins/blogvault-real-time-backup,http://ja.wordpress.org/plugins/blogvault-real-time-backup,http://fa-af.wordpress.org/plugins/blogvault-real-time-backup,http://pt-ao.wordpress.org/plugins/blogvault-real-time-backup,http://soninow.com/wp/plugins/blogvault-real-time-backup,http://fur.wordpress.org/plugins/blogvault-real-time-backup,http://hu.wordpress.org/plugins/blogvault-real-time-backup,http://tg.wordpress.org/plugins/blogvault-real-time-backup,http://nn.wordpress.org/plugins/blogvault-real-time-backup,http://vec.wordpress.org/plugins/blogvault-real-time-backup",
+    "companyHint": "blogvault.net,support@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,96,generic,30,{first},,,Support,,,,,,privately held,Software Development,,http://pan.wordpress.org/plugins/blogvault-real-time-backup,http://tzm.wordpress.org/plugins/blogvault-real-time-backup,http://km.wordpress.org/plugins/blogvault-real-time-backup,http://rhg.wordpress.org/plugins/blogvault-real-time-backup,http://twd.wordpress.org/plugins/blogvault-real-time-backup,http://fon.wordpress.org/plugins/blogvault-real-time-backup,http://sv.wordpress.org/plugins/blogvault-real-time-backup,http://migrateguru.freshdesk.com/support/solutions/articles/33000096705-what-if-there-is-malware-on-my-original-site-source-site-,http://blogvault.net/contact,http://vi.wordpress.org/plugins/blogvault-real-time-backup,http://skr.wordpress.org/plugins/blogvault-real-time-backup,http://zgh.wordpress.org/plugins/blogvault-real-time-backup,http://tt.wordpress.org/plugins/blogvault-real-time-backup,http://cor.wordpress.org/plugins/blogvault-real-time-backup,http://ro.wordpress.org/plugins/blogvault-real-time-backup,http://kea.wordpress.org/plugins/blogvault-real-time-backup,http://it.wordpress.org/plugins/blogvault-real-time-backup,http://es.wordpress.org/plugins/blogvault-real-time-backup,http://kin.wordpress.org/plugins/blogvault-real-time-backup,http://pe.wordpress.org/plugins/blogvault-real-time-backup,http://ja.wordpress.org/plugins/blogvault-real-time-backup,http://fa-af.wordpress.org/plugins/blogvault-real-time-backup,http://pt-ao.wordpress.org/plugins/blogvault-real-time-backup,http://soninow.com/wp/plugins/blogvault-real-time-backup,http://fur.wordpress.org/plugins/blogvault-real-time-backup,http://hu.wordpress.org/plugins/blogvault-real-time-backup,http://tg.wordpress.org/plugins/blogvault-real-time-backup,http://nn.wordpress.org/plugins/blogvault-real-time-backup,http://vec.wordpress.org/plugins/blogvault-real-time-backup",
+    "website": "http://th.wordpress.org/plugins/blogvault-real-time-backup"
+  },
+  {
+    "id": "0c1d5b72f9c9",
+    "rawInput": "blogvault.net,akshat@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,95,personal,1,{first},,,,,,,,,privately held,Software Development,http://lambertgroupproductions.com/2017/11/01/wordpress-migrations-revolution,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,akshat@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,95,personal,1,{first},,,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://lambertgroupproductions.com/2017/11/01/wordpress-migrations-revolution"
+  },
+  {
+    "id": "870600d3d337",
+    "rawInput": "blogvault.net,hr@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,75,personal,1,{first},,,Management,HR Manager,HR Manager,,https://www.linkedin.com/in/blogvault-hr-60623a189,,privately held,Software Development,http://jobringer.com/company-details/blog2024910131824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "blogvault.net,hr@blogvault.net,blogvault.net,BlogVault,IN,,Bengaluru,,,75,personal,1,{first},,,Management,HR Manager,HR Manager,,,,privately held,Software Development,http://jobringer.com/company-details/blog2024910131824,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/blogvault-hr-60623a189"
+  },
+  {
+    "id": "2050644a39cd",
+    "rawInput": "joomdev.com,atanu@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,99,personal,1,{first},Atanu,Dey,Support,Sales Representative,Sales Employee,,https://www.linkedin.com/in/atanu-dey-2980b421a,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20atanu%20dey%20joomdev,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,atanu@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,99,personal,1,{first},Atanu,Dey,Support,Sales Representative,Sales Employee,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20atanu%20dey%20joomdev,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/atanu-dey-2980b421a"
+  },
+  {
+    "id": "599e82a753ee",
+    "rawInput": "joomdev.com,naveen.kumar@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,99,personal,7,{first},Naveen,Kumar,Sales,Sales Director,Sales Director/ Project Manager,,https://www.linkedin.com/in/naveen-kumar-52020168,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20naveen%20kumar%20joomdev,http://demo.mightythemes.com/mtblog/everything-you-need-to-know-about-photography,http://demo.mightythemes.com/mtblog/mi-led-tv-4c-pro-review,http://demo.mightythemes.com/mtblog/learn-how-to-make-more-money-with-hiking,http://demo.mightythemes.com/mtblog/simple-guidance-for-you-in-biking,http://demo.mightythemes.com/mtblog/the-worst-advices-weve-heard-for-hiking,http://joomdev.com/about-us,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,naveen.kumar@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,99,personal,7,{first},Naveen,Kumar,Sales,Sales Director,Sales Director/ Project Manager,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20naveen%20kumar%20joomdev,http://demo.mightythemes.com/mtblog/everything-you-need-to-know-about-photography,http://demo.mightythemes.com/mtblog/mi-led-tv-4c-pro-review,http://demo.mightythemes.com/mtblog/learn-how-to-make-more-money-with-hiking,http://demo.mightythemes.com/mtblog/simple-guidance-for-you-in-biking,http://demo.mightythemes.com/mtblog/the-worst-advices-weve-heard-for-hiking,http://joomdev.com/about-us,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/naveen-kumar-52020168"
+  },
+  {
+    "id": "58503c4695d3",
+    "rawInput": "joomdev.com,chetan@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,99,personal,2,{first},Chetan,M,Executive,Founder,Founder,\"\",https://www.linkedin.com/in/chetan-m-b4707a194,\"\",public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20chetan%20m%20joomdev,http://podcasts.apple.com/us/podcast/joomcast/id1461716518,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,chetan@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,99,personal,2,{first},Chetan,M,Executive,Founder,Founder,\"\",,\"\",public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20chetan%20m%20joomdev,http://podcasts.apple.com/us/podcast/joomcast/id1461716518,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/chetan-m-b4707a194"
+  },
+  {
+    "id": "1070f8df61e7",
+    "rawInput": "joomdev.com,praveen@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,98,personal,2,{first},Kumar,Praveen,Management,HR Manager,HR Manager,,https://www.linkedin.com/in/kumar-praveen-298944207,,public company,Software Development,http://joomdev.com/career,http://joomdev.com/contact,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,praveen@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,98,personal,2,{first},Kumar,Praveen,Management,HR Manager,HR Manager,,,,public company,Software Development,http://joomdev.com/career,http://joomdev.com/contact,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/kumar-praveen-298944207"
+  },
+  {
+    "id": "418d27e7ad62",
+    "rawInput": "joomdev.com,chandan.deep@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,98,personal,4,{first},Chandan,Deep,IT / Engineering,Frontend Developer,Frontend Developer,,https://www.linkedin.com/in/chandan-deep-4134b440,,public company,Software Development,http://astemplates.com/joomla-template-usercomments/753-jd-medical-82419,http://astemplates.com/joomla-template-comments/757-jd-conference,http://astemplates.com/joomla-template-usercomments/757-jd-conference-123711,http://joomdev.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,chandan.deep@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,98,personal,4,{first},Chandan,Deep,IT / Engineering,Frontend Developer,Frontend Developer,,,,public company,Software Development,http://astemplates.com/joomla-template-usercomments/753-jd-medical-82419,http://astemplates.com/joomla-template-comments/757-jd-conference,http://astemplates.com/joomla-template-usercomments/757-jd-conference-123711,http://joomdev.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/chandan-deep-4134b440"
+  },
+  {
+    "id": "2386e0a59e3b",
+    "rawInput": "joomdev.com,sushma@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,97,personal,1,{first},Sushma,B,Management,Project Manager,Project Manager/Business Analyst,,https://www.linkedin.com/in/sushma-b-651911240,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20sushma%20b%20joomdev,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,sushma@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,97,personal,1,{first},Sushma,B,Management,Project Manager,Project Manager/Business Analyst,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20sushma%20b%20joomdev,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sushma-b-651911240"
+  },
+  {
+    "id": "7a92b1596507",
+    "rawInput": "joomdev.com,sam@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,97,personal,1,{first},Sam,Raman,Sales,\"Senior Vice President, Business Solutions\",Senior VP Business Solutions,,https://www.linkedin.com/in/samraman,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20sam%20raman%20joomdev,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,sam@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,97,personal,1,{first},Sam,Raman,Sales,\"Senior Vice President, Business Solutions\",Senior VP Business Solutions,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20sam%20raman%20joomdev,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/samraman"
+  },
+  {
+    "id": "5bf73897be78",
+    "rawInput": "joomdev.com,support@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,96,generic,4,{first},,,Support,,,,,,public company,Software Development,http://astemplates.com/joomla-template-usercomments/1056-jd-gurukul-112689,http://astemplates.com/joomla-template-comments/771-jd-biz-one,http://astemplates.com/joomla-template-comments/781-jd-construct,http://joomdev.com/contact,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,support@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,96,generic,4,{first},,,Support,,,,,,public company,Software Development,,http://astemplates.com/joomla-template-comments/771-jd-biz-one,http://astemplates.com/joomla-template-comments/781-jd-construct,http://joomdev.com/contact,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://astemplates.com/joomla-template-usercomments/1056-jd-gurukul-112689"
+  },
+  {
+    "id": "02d4d9816d64",
+    "rawInput": "joomdev.com,sales@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,95,generic,10,{first},,,Sales,,,,,,public company,Software Development,http://joomdev.com/forum/user/8893-andre-skeen-co-za,http://joomdev.com/forum/recent,http://joomdev.com/forum/topics/mode-topics,http://hiretechfirms.com/services/web-development,http://hiretechfirms.com/web-development/joomla-development-companies,http://hiretechfirms.com/web-development,http://joomdev.com/index.php,http://adzone.urbanretails.com/addetail/023079,http://touch.urbanretails.com/adzone/addetail/023079,http://joomdev.com,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,sales@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,95,generic,10,{first},,,Sales,,,,,,public company,Software Development,,http://joomdev.com/forum/recent,http://joomdev.com/forum/topics/mode-topics,http://hiretechfirms.com/services/web-development,http://hiretechfirms.com/web-development/joomla-development-companies,http://hiretechfirms.com/web-development,http://joomdev.com/index.php,http://adzone.urbanretails.com/addetail/023079,http://touch.urbanretails.com/adzone/addetail/023079,http://joomdev.com,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://joomdev.com/forum/user/8893-andre-skeen-co-za"
+  },
+  {
+    "id": "98f0d57182c0",
+    "rawInput": "joomdev.com,shivani.bhatia@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,94,personal,5,{first},Shivani,Bhatia,,\"\",\"\",\"\",\"\",\"\",public company,Software Development,http://vintagehrconsultants.com/newest-jobs/company/joomdev-111,http://vintagehrconsultants.com/all-companies/company/joomdev-112,http://vintagehrconsultants.com/all-companies/company/joomdev-111,http://vintagehrconsultants.com/jobseeker-control-panel/company/joomdev-111,http://vintagehrconsultants.com/newest-jobs/company/joomdev-112,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "joomdev.com,shivani.bhatia@joomdev.com,joomdev.com,JoomDev,IN,,New Delhi,,,94,personal,5,{first},Shivani,Bhatia,,\"\",\"\",\"\",\"\",\"\",public company,Software Development,,http://vintagehrconsultants.com/all-companies/company/joomdev-112,http://vintagehrconsultants.com/all-companies/company/joomdev-111,http://vintagehrconsultants.com/jobseeker-control-panel/company/joomdev-111,http://vintagehrconsultants.com/newest-jobs/company/joomdev-112,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://vintagehrconsultants.com/newest-jobs/company/joomdev-111"
+  },
+  {
+    "id": "ef15fbf13fce",
+    "rawInput": "djangogirls.org,mallorca@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,94,personal,6,{first}{last},Palma,Mallorca,,\"\",\"\",\"\",\"\",\"\",non profit,Software Development,http://djangogirls.org/en/mallorca,http://djangogirls.org/en/mallorca3,http://djangogirls.org/en/mallorca2,http://djangogirls.org/en/mallorca1,http://txerpa.com/blog/txerpa-patrocinador-django-girls-mallorca-2019-mujeres-programadoras,http://xavier-gil-cj8k.squarespace.com/blog/txerpa-patrocinador-django-girls-mallorca-2019-mujeres-programadoras,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,mallorca@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,94,personal,6,{first}{last},Palma,Mallorca,,\"\",\"\",\"\",\"\",\"\",non profit,Software Development,,http://djangogirls.org/en/mallorca3,http://djangogirls.org/en/mallorca2,http://djangogirls.org/en/mallorca1,http://txerpa.com/blog/txerpa-patrocinador-django-girls-mallorca-2019-mujeres-programadoras,http://xavier-gil-cj8k.squarespace.com/blog/txerpa-patrocinador-django-girls-mallorca-2019-mujeres-programadoras,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://djangogirls.org/en/mallorca"
+  },
+  {
+    "id": "bac5b298a2fa",
+    "rawInput": "djangogirls.org,anna@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,94,personal,3,{first}{last},Anna,Makarudze,Operations & logistics,Fundraising Coordinator,Fundraising Coordinator/ Software Engineer,,https://www.linkedin.com/in/anna-makarudze,,non profit,Software Development,http://blog.djangogirls.org/page/10,http://speakerdeck.com/amakarudze/my-journey-with-code,http://blog.djangogirls.org/post/162673547790/anna-makarudze-joins-as-the-django-girls,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,anna@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,94,personal,3,{first}{last},Anna,Makarudze,Operations & logistics,Fundraising Coordinator,Fundraising Coordinator/ Software Engineer,,,,non profit,Software Development,http://blog.djangogirls.org/page/10,http://speakerdeck.com/amakarudze/my-journey-with-code,http://blog.djangogirls.org/post/162673547790/anna-makarudze-joins-as-the-django-girls,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/anna-makarudze"
+  },
+  {
+    "id": "2698c5f7a2cf",
+    "rawInput": "djangogirls.org,claire@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,93,personal,3,{first}{last},Claire,Wicher,Executive,Managing Director,Managing Director,\"\",https://www.linkedin.com/in/girlgeekupnorth,\"\",non profit,Software Development,http://blog.djangogirls.org/page/12,http://blog.djangogirls.org/post/161441111423/claire-wicher-joins-django-girls-as-awesomeness,https://www.google.com/search?q=site:linkedin.com%20claire%20wicher%20djangogirls,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,claire@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,93,personal,3,{first}{last},Claire,Wicher,Executive,Managing Director,Managing Director,\"\",,\"\",non profit,Software Development,http://blog.djangogirls.org/page/12,http://blog.djangogirls.org/post/161441111423/claire-wicher-joins-django-girls-as-awesomeness,https://www.google.com/search?q=site:linkedin.com%20claire%20wicher%20djangogirls,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/girlgeekupnorth"
+  },
+  {
+    "id": "f670de07cac3",
+    "rawInput": "djangogirls.org,lagos@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,93,personal,3,{first}{last},Johnson,Lagos,,\"\",\"\",ayuzcoded,\"\",\"\",non profit,Software Development,http://djangogirls.org/en/lagos,http://nigerianngo.com/blog/take-advantage-of-django-girls-free-coding-camp-for-idps-and-other-members-of-the-public,http://bellanaija.com/2016/07/experience-the-fun-of-programming-register-and-learn-how-to-code-at-django-girls-application-closes-on-august-25th,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,lagos@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,93,personal,3,{first}{last},Johnson,Lagos,,\"\",\"\",ayuzcoded,\"\",\"\",non profit,Software Development,,http://nigerianngo.com/blog/take-advantage-of-django-girls-free-coding-camp-for-idps-and-other-members-of-the-public,http://bellanaija.com/2016/07/experience-the-fun-of-programming-register-and-learn-how-to-code-at-django-girls-application-closes-on-august-25th,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://djangogirls.org/en/lagos"
+  },
+  {
+    "id": "182396f9f13a",
+    "rawInput": "djangogirls.org,bentogoncalves@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,92,personal,1,{first}{last},Bento,Gonçalves,,\"\",\"\",pyladiespoa,\"\",\"\",non profit,Software Development,http://djangogirls.org/en/bentogoncalves,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,bentogoncalves@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,92,personal,1,{first}{last},Bento,Gonçalves,,\"\",\"\",pyladiespoa,\"\",\"\",non profit,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://djangogirls.org/en/bentogoncalves"
+  },
+  {
+    "id": "482a8d6c7045",
+    "rawInput": "djangogirls.org,hello@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,91,generic,26,{first}{last},,,Support,,,,,,non profit,Software Development,http://blog.europython.eu/free-django-workshop-for-women-at-europython,http://blog.europython.eu/post/87880379552/free-django-workshop-for-women-at-europython,http://djangogirls.org/pyconuk20162,http://translate.djangogirls.org,http://translate.djangogirls.org/when_its_ready,http://organize.djangogirls.org/application_form/create_manage_form,http://djangogirls.org/en/kharkiv9,http://djangogirls.org/en/la-paz,http://organize.djangogirls.org/after_the_event/todo_list,http://organize.djangogirls.org/application_form/create_manage_form.html,http://organize.djangogirls.org/conferences/booth.html,http://djangogirls.org/es/berlin,http://slides.com/helenst/planningpython2016,http://organize.djangogirls.org,http://djangogirls.org/en/bordeaux,http://translate.djangogirls.org/when_its_ready.html,http://blog.djangogirls.org/page/12,http://blog.djangogirls.org/post/161441111423/claire-wicher-joins-django-girls-as-awesomeness,http://blog.djangogirls.org/page/2,http://blog.djangogirls.org/post/636331671360258048/help-shape-the-future-of-django-girls,http://blog.djangogirls.org/submit,http://coach.djangogirls.org/intro,http://coach.djangogirls.org/summary,http://djangoproject.com/weblog/2014/jun/05/free-django-workshop-women-europython,http://blog.europython.eu/author/marc/page/32,http://github.com/djangogirls/tutorial,,,,",
+    "companyHint": "djangogirls.org,hello@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,91,generic,26,{first}{last},,,Support,,,,,,non profit,Software Development,,http://blog.europython.eu/post/87880379552/free-django-workshop-for-women-at-europython,http://djangogirls.org/pyconuk20162,http://translate.djangogirls.org,http://translate.djangogirls.org/when_its_ready,http://organize.djangogirls.org/application_form/create_manage_form,http://djangogirls.org/en/kharkiv9,http://djangogirls.org/en/la-paz,http://organize.djangogirls.org/after_the_event/todo_list,http://organize.djangogirls.org/application_form/create_manage_form.html,http://organize.djangogirls.org/conferences/booth.html,http://djangogirls.org/es/berlin,http://slides.com/helenst/planningpython2016,http://organize.djangogirls.org,http://djangogirls.org/en/bordeaux,http://translate.djangogirls.org/when_its_ready.html,http://blog.djangogirls.org/page/12,http://blog.djangogirls.org/post/161441111423/claire-wicher-joins-django-girls-as-awesomeness,http://blog.djangogirls.org/page/2,http://blog.djangogirls.org/post/636331671360258048/help-shape-the-future-of-django-girls,http://blog.djangogirls.org/submit,http://coach.djangogirls.org/intro,http://coach.djangogirls.org/summary,http://djangoproject.com/weblog/2014/jun/05/free-django-workshop-women-europython,http://blog.europython.eu/author/marc/page/32,http://github.com/djangogirls/tutorial,,,,",
+    "website": "http://blog.europython.eu/free-django-workshop-for-women-at-europython"
+  },
+  {
+    "id": "5bba0de10497",
+    "rawInput": "djangogirls.org,florence@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,90,personal,7,{first}{last},,,,,,,,,non profit,Software Development,http://djangogirls.org/en/pyconitalia7,http://djangogirls.org/en/pyconitalia5,http://djangogirls.org/en/pyconitalia,http://djangogirls.org/en/pyconitalia6,http://djangogirls.org/en/pyconitalia3,http://grusp.org/partner/django-girls,http://2017.djangocon.eu,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,florence@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,90,personal,7,{first}{last},,,,,,,,,non profit,Software Development,,http://djangogirls.org/en/pyconitalia5,http://djangogirls.org/en/pyconitalia,http://djangogirls.org/en/pyconitalia6,http://djangogirls.org/en/pyconitalia3,http://grusp.org/partner/django-girls,http://2017.djangocon.eu,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://djangogirls.org/en/pyconitalia7"
+  },
+  {
+    "id": "f28271a4456e",
+    "rawInput": "djangogirls.org,arequipa@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,89,personal,2,{first}{last},Django,Arequipa,Management,Branch Manager,Gerente de sucursal,,https://www.linkedin.com/in/django-arequipa-12071b13a,,non profit,Software Development,http://djangogirls.org/en/arequipa,http://djangogirls.org/en/arequipa4,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,arequipa@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,89,personal,2,{first}{last},Django,Arequipa,Management,Branch Manager,Gerente de sucursal,,,,non profit,Software Development,http://djangogirls.org/en/arequipa,http://djangogirls.org/en/arequipa4,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/django-arequipa-12071b13a"
+  },
+  {
+    "id": "ff6369120b12",
+    "rawInput": "djangogirls.org,milano@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,89,personal,2,{first}{last},Milano,Napoli,,\"\",\"\",gazzettadmilano,https://www.linkedin.com/in/gazzetta-di-milano-190a7217b/,\"\",non profit,Software Development,http://djangogirls.org/en/milano,http://gazzettadimilano.it/top-news/lavventura-django-girls-italia-continua-sabato-16-marzo-2019-mikamai-ospitera-un-nuovo-workshop-di-programmazione,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,milano@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,89,personal,2,{first}{last},Milano,Napoli,,\"\",\"\",gazzettadmilano,,\"\",non profit,Software Development,http://djangogirls.org/en/milano,http://gazzettadimilano.it/top-news/lavventura-django-girls-italia-continua-sabato-16-marzo-2019-mikamai-ospitera-un-nuovo-workshop-di-programmazione,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/gazzetta-di-milano-190a7217b/"
+  },
+  {
+    "id": "8524bed7f789",
+    "rawInput": "djangogirls.org,palermo@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,88,personal,1,{first}{last},Sicilia,Palermo,,\"\",\"\",\"\",\"\",\"\",non profit,Software Development,http://djangogirls.org/en/palermo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "djangogirls.org,palermo@djangogirls.org,djangogirls.org,Django Girls,IN,,Indore,,,88,personal,1,{first}{last},Sicilia,Palermo,,\"\",\"\",\"\",\"\",\"\",non profit,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://djangogirls.org/en/palermo"
+  },
+  {
+    "id": "e66d56e6a3b2",
+    "rawInput": "tatvic.com,hiral@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,94,personal,1,{first},Hiral,Sheth,Sales,Account Executive,Senior Account Executive,,https://www.linkedin.com/in/hiral-sheth-19747aa8,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20hiral%20sheth%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,hiral@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,94,personal,1,{first},Hiral,Sheth,Sales,Account Executive,Senior Account Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20hiral%20sheth%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/hiral-sheth-19747aa8"
+  },
+  {
+    "id": "213569d83fbb",
+    "rawInput": "tatvic.com,bharat@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,94,personal,1,{first},Bharat,Sethi,Writing & communication,Director of Media,Head of Media,,https://www.linkedin.com/in/bsethi2,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20bharat%20sethi%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,bharat@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,94,personal,1,{first},Bharat,Sethi,Writing & communication,Director of Media,Head of Media,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20bharat%20sethi%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/bsethi2"
+  },
+  {
+    "id": "da1149af8295",
+    "rawInput": "tatvic.com,avinash@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,94,personal,1,{first},Avinash,Kaza,Sales,Regional Sales Director,Regional Sales Head,,https://www.linkedin.com/in/avinash-kaza-82788059,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20avinash%20kaza%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,avinash@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,94,personal,1,{first},Avinash,Kaza,Sales,Regional Sales Director,Regional Sales Head,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20avinash%20kaza%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/avinash-kaza-82788059"
+  },
+  {
+    "id": "adcb72b4128a",
+    "rawInput": "tatvic.com,chandani@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,93,personal,1,{first},Chandani,Shah,Sales,Senior Account Executive,Sr. Accounts Executive,,https://www.linkedin.com/in/chandani-shah-169992229,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20chandani%20shah%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,chandani@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,93,personal,1,{first},Chandani,Shah,Sales,Senior Account Executive,Sr. Accounts Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20chandani%20shah%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/chandani-shah-169992229"
+  },
+  {
+    "id": "37301f7f134b",
+    "rawInput": "tatvic.com,sohel@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,93,personal,1,{first},Sohel,Visalpurwala,Finance,Assistant Manager - Finance,Assistant Manager  - Accounts & Finance,,https://www.linkedin.com/in/sohel-visalpurwala-471a8a7a,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sohel%20visalpurwala%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,sohel@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,93,personal,1,{first},Sohel,Visalpurwala,Finance,Assistant Manager - Finance,Assistant Manager - Accounts & Finance,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sohel%20visalpurwala%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sohel-visalpurwala-471a8a7a"
+  },
+  {
+    "id": "78917e2fd615",
+    "rawInput": "tatvic.com,swati@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,93,personal,1,{first},Swati,Panchmatia,HR,Chief Human Resources Officer,Global Head Human Resources,,https://www.linkedin.com/in/swati-panchmatia-8205187,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20swati%20panchmatia%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,swati@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,93,personal,1,{first},Swati,Panchmatia,HR,Chief Human Resources Officer,Global Head Human Resources,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20swati%20panchmatia%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/swati-panchmatia-8205187"
+  },
+  {
+    "id": "33264289b3e7",
+    "rawInput": "tatvic.com,tejas@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,92,personal,1,{first},Tejas,Modi,Executive,Co-Founder,Co-Founder,,https://www.linkedin.com/in/tejas-modi-69178b4,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20tejas%20modi%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,tejas@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,92,personal,1,{first},Tejas,Modi,Executive,Co-Founder,Co-Founder,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20tejas%20modi%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/tejas-modi-69178b4"
+  },
+  {
+    "id": "ad2154e8d3d3",
+    "rawInput": "tatvic.com,chandni@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,92,personal,1,{first},Chandni,Sedani,Finance,Finance Director,Head Of Finance,,https://www.linkedin.com/in/chandni-sedani-64a68a170,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20chandni%20sedani%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,chandni@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,92,personal,1,{first},Chandni,Sedani,Finance,Finance Director,Head Of Finance,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20chandni%20sedani%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/chandni-sedani-64a68a170"
+  },
+  {
+    "id": "b58421f3c5d3",
+    "rawInput": "tatvic.com,ankit@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,91,personal,1,{first},Ankit,Bhatia,Sales,Head of Sales,Head of Sales and Account Mangement,,https://www.linkedin.com/in/ankit-bhatia-64751814,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20ankit%20bhatia%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,ankit@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,91,personal,1,{first},Ankit,Bhatia,Sales,Head of Sales,Head of Sales and Account Mangement,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20ankit%20bhatia%20tatvic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/ankit-bhatia-64751814"
+  },
+  {
+    "id": "8aa990862530",
+    "rawInput": "tatvic.com,ravi@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,91,personal,3,{first},Ravi,Pathak,Executive,Founder,Founder,green_medi,https://www.linkedin.com/in/ravipathak,\"\",privately held,Software Development,http://tatvic.com.websiteoutlook.com,https://www.google.com/search?q=site:linkedin.com%20ravi%20pathak%20tatvic,http://slideshare.net/anilv13/conversion-tracking-with-google-analytics,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tatvic.com,ravi@tatvic.com,tatvic.com,Tatvic ®,IN,,Ahmedabad,,,91,personal,3,{first},Ravi,Pathak,Executive,Founder,Founder,green_medi,,\"\",privately held,Software Development,http://tatvic.com.websiteoutlook.com,https://www.google.com/search?q=site:linkedin.com%20ravi%20pathak%20tatvic,http://slideshare.net/anilv13/conversion-tracking-with-google-analytics,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/ravipathak"
+  },
+  {
+    "id": "9ffdb2e184b0",
+    "rawInput": "themescaliber.com,support@themescaliber.com,themescaliber.com,Themescaliber,IN,,Nagpur,,,99,generic,6,,,,Support,,,,,,partnership,Software Development,http://kingmemorialhall.co.uk,http://kingmemorialhall.co.uk/blog-5,http://kingmemorialhall.co.uk/about-us,http://kingmemorialhall.co.uk/kmh/cropped-kmh-jpg,http://kingmemorialhall.co.uk/pages-6,http://themescaliber.com/pages/contact,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "themescaliber.com,support@themescaliber.com,themescaliber.com,Themescaliber,IN,,Nagpur,,,99,generic,6,,,,Support,,,,,,partnership,Software Development,,http://kingmemorialhall.co.uk/blog-5,http://kingmemorialhall.co.uk/about-us,http://kingmemorialhall.co.uk/kmh/cropped-kmh-jpg,http://kingmemorialhall.co.uk/pages-6,http://themescaliber.com/pages/contact,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://kingmemorialhall.co.uk/"
+  },
+  {
+    "id": "2467b852aa5d",
+    "rawInput": "zohosites.com,sudha@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,99,personal,1,{first},Sudha,Arumugam,HR,Human Resources Manager,Human Resources Manager,,https://www.linkedin.com/in/sudha-arumugam-94541025b,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sudha%20arumugam%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zohosites.com,sudha@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,99,personal,1,{first},Sudha,Arumugam,HR,Human Resources Manager,Human Resources Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sudha%20arumugam%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sudha-arumugam-94541025b"
+  },
+  {
+    "id": "608a5116291f",
+    "rawInput": "zohosites.com,goutham@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,99,personal,1,{first},Goutham,Ravutla,Management,Product Manager,Associate Product Manager,,https://www.linkedin.com/in/gouthamravutla,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20goutham%20ravutla%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zohosites.com,goutham@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,99,personal,1,{first},Goutham,Ravutla,Management,Product Manager,Associate Product Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20goutham%20ravutla%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/gouthamravutla"
+  },
+  {
+    "id": "d44b24d677d6",
+    "rawInput": "zohosites.com,dinesh@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,98,personal,1,{first},Dinesh,Arora,Management,Channel Manager,\"Head of Channel Business, Zoho Workplace\",,https://www.linkedin.com/in/quicklearn,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20dinesh%20arora%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zohosites.com,dinesh@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,98,personal,1,{first},Dinesh,Arora,Management,Channel Manager,\"Head of Channel Business, Zoho Workplace\",,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20dinesh%20arora%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/quicklearn"
+  },
+  {
+    "id": "2809c11a3ac7",
+    "rawInput": "zohosites.com,krishna@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,98,personal,1,{first},Krishna,Kiran,Sales,Sales Executive,sales executive,,https://www.linkedin.com/in/krishna-kiran-527b7bb2,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20krishna%20kiran%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zohosites.com,krishna@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,98,personal,1,{first},Krishna,Kiran,Sales,Sales Executive,sales executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20krishna%20kiran%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/krishna-kiran-527b7bb2"
+  },
+  {
+    "id": "730da3444329",
+    "rawInput": "zohosites.com,naresh@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,97,personal,1,{first},Naresh,Jebaraj,Sales,Sales Director,Sales Director,,https://www.linkedin.com/in/naresh-jebaraj-23931378,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20naresh%20jebaraj%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zohosites.com,naresh@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,97,personal,1,{first},Naresh,Jebaraj,Sales,Sales Director,Sales Director,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20naresh%20jebaraj%20zohosites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/naresh-jebaraj-23931378"
+  },
+  {
+    "id": "5c99956160ab",
+    "rawInput": "zohosites.com,support@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,96,generic,19,{first},,,Support,,,,,,privately held,Software Development,http://geniusfirms.com/category/web-development,http://geniusfirms.com/review/zoho-sites,http://sticky-demo.zohosites.com,http://zoho.com/commerce/cookie-policy.html,http://thesmbguide.com/zoho-sites-reviews,http://zoho.com/sites/articles/about-us-storytelling-introduction-page.html,http://crm7.com.br/blog/zoho-sites/novos-recursos-emocionantes-adicionados-aos-sites-zoho-novamente,http://crm7.com.br/blog/zoho-sites/de-ao-seu-site-uma-renovacao-5-novos-recursos-interessantes-em-zoho-sites,http://help.zoho.com/portal/en/kb/zohosites/faq/seo,http://opdweb.jp/zoho-sites-tricks,http://help.zoho.com/portal/en/community/topic/unveiling-zoho-sites-2-0-a-new-dimension-in-website-building-15-4-2024,http://zoho.com/blog/sites/convert-visitors-to-subscribers-zoho-sites-introduces-the-newsletter-subscription-form.html,http://help.zoho.com/portal/en/community/topic/early-access-zoho-sites-v2,http://help.zoho.com/portal/en/kb/zohosites/help-guide/website-migration/articles/website-migration-sites,http://help.zoho.com/portal/en/kb/zohosites/help-guide/welcome-to-sites/articles/beginners-guide,http://zohohelp.com/commerce/cookie-policy.html,http://zoho.com/blog/sites/introducing-the-new-and-improved-zoho-sites.html,http://zoho.com/sites/articles/make-a-website.html,http://zstatic.zohostatic.com/commerce/cookie-policy.html,,,,,,,,,,,",
+    "companyHint": "zohosites.com,support@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,96,generic,19,{first},,,Support,,,,,,privately held,Software Development,,http://geniusfirms.com/review/zoho-sites,http://sticky-demo.zohosites.com,http://zoho.com/commerce/cookie-policy.html,http://thesmbguide.com/zoho-sites-reviews,http://zoho.com/sites/articles/about-us-storytelling-introduction-page.html,http://crm7.com.br/blog/zoho-sites/novos-recursos-emocionantes-adicionados-aos-sites-zoho-novamente,http://crm7.com.br/blog/zoho-sites/de-ao-seu-site-uma-renovacao-5-novos-recursos-interessantes-em-zoho-sites,http://help.zoho.com/portal/en/kb/zohosites/faq/seo,http://opdweb.jp/zoho-sites-tricks,http://help.zoho.com/portal/en/community/topic/unveiling-zoho-sites-2-0-a-new-dimension-in-website-building-15-4-2024,http://zoho.com/blog/sites/convert-visitors-to-subscribers-zoho-sites-introduces-the-newsletter-subscription-form.html,http://help.zoho.com/portal/en/community/topic/early-access-zoho-sites-v2,http://help.zoho.com/portal/en/kb/zohosites/help-guide/website-migration/articles/website-migration-sites,http://help.zoho.com/portal/en/kb/zohosites/help-guide/welcome-to-sites/articles/beginners-guide,http://zohohelp.com/commerce/cookie-policy.html,http://zoho.com/blog/sites/introducing-the-new-and-improved-zoho-sites.html,http://zoho.com/sites/articles/make-a-website.html,http://zstatic.zohostatic.com/commerce/cookie-policy.html,,,,,,,,,,,",
+    "website": "http://geniusfirms.com/category/web-development"
+  },
+  {
+    "id": "48d69aeeb15e",
+    "rawInput": "zohosites.com,marketing@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,95,generic,2,{first},,,Marketing,,,,,,privately held,Software Development,http://zoho.com/sites/articles/about-us-storytelling-introduction-page.html,http://zoho.com/sites/articles/make-a-website.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "zohosites.com,marketing@zohosites.com,zohosites.com,Zoho Sites,IN,,Chennai,,,95,generic,2,{first},,,Marketing,,,,,,privately held,Software Development,,http://zoho.com/sites/articles/make-a-website.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://zoho.com/sites/articles/about-us-storytelling-introduction-page.html"
+  },
+  {
+    "id": "7090b331efab",
+    "rawInput": "hcl-software.com,max.vohlken@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Max,Vohlken,IT / Engineering,Software Engineer,Software Engineer,,https://www.linkedin.com/in/max-vohlken-0688594,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20max%20vohlken%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,max.vohlken@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Max,Vohlken,IT / Engineering,Software Engineer,Software Engineer,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20max%20vohlken%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/max-vohlken-0688594"
+  },
+  {
+    "id": "d08af2cb27c7",
+    "rawInput": "hcl-software.com,branden.harris@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Branden,Harris,Marketing,Event Marketing Manager,Event Marketing Manager,,https://www.linkedin.com/in/branden-harris-233529193,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20branden%20harris%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,branden.harris@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Branden,Harris,Marketing,Event Marketing Manager,Event Marketing Manager,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20branden%20harris%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/branden-harris-233529193"
+  },
+  {
+    "id": "e24aa858841a",
+    "rawInput": "hcl-software.com,jony.kan@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Jony,Kan,IT / Engineering,Build and Release Engineer,Build And Release Engineer,,https://www.linkedin.com/in/jony-kan-3051264,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20jony%20kan%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,jony.kan@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Jony,Kan,IT / Engineering,Build and Release Engineer,Build And Release Engineer,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20jony%20kan%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/jony-kan-3051264"
+  },
+  {
+    "id": "801abe065269",
+    "rawInput": "hcl-software.com,samantha.gustafson@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Samantha,Gustafson,IT / Engineering,Software Engineer,Software Engineer,,https://www.linkedin.com/in/samanthalgustafson,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20samantha%20gustafson%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,samantha.gustafson@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Samantha,Gustafson,IT / Engineering,Software Engineer,Software Engineer,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20samantha%20gustafson%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/samanthalgustafson"
+  },
+  {
+    "id": "7735ad0411f5",
+    "rawInput": "hcl-software.com,jeffrey_b@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Jeffrey,Barto,IT / Engineering,Senior Software Engineer,Senior Software Developer,,https://www.linkedin.com/in/jeffrey-barto-2b289613b,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20jeffrey%20barto%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,jeffrey_b@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Jeffrey,Barto,IT / Engineering,Senior Software Engineer,Senior Software Developer,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20jeffrey%20barto%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/jeffrey-barto-2b289613b"
+  },
+  {
+    "id": "762df8369bab",
+    "rawInput": "hcl-software.com,julie.campos@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Julie,Campos,Support,Customer Success Manager,\"Manager, Customer Success\",,https://www.linkedin.com/in/julie-campos-6058023,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20julie%20campos%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,julie.campos@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Julie,Campos,Support,Customer Success Manager,\"Manager, Customer Success\",,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20julie%20campos%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/julie-campos-6058023"
+  },
+  {
+    "id": "aba03f39e627",
+    "rawInput": "hcl-software.com,sheila.blanchette@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Sheila,Blanchette,Executive,Compliance Officer,Compliance & Business Continuity Facilitator,,https://www.linkedin.com/in/sheila-blanchette-21775b13,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20sheila%20blanchette%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,sheila.blanchette@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Sheila,Blanchette,Executive,Compliance Officer,Compliance & Business Continuity Facilitator,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20sheila%20blanchette%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sheila-blanchette-21775b13"
+  },
+  {
+    "id": "75caf1242247",
+    "rawInput": "hcl-software.com,laura.shultis@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Laura,Shultis,IT / Engineering,Senior Technical Specialist,Senior Technical Specialist,,https://www.linkedin.com/in/laura-shultis,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20laura%20shultis%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,laura.shultis@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Laura,Shultis,IT / Engineering,Senior Technical Specialist,Senior Technical Specialist,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20laura%20shultis%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/laura-shultis"
+  },
+  {
+    "id": "20d2fa279479",
+    "rawInput": "hcl-software.com,lulu.meng@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Lulu,Meng,IT / Engineering,Technical Lead,Senior Technical Lead,,https://www.linkedin.com/in/lulu-meng-823998138,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20lulu%20meng%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,lulu.meng@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Lulu,Meng,IT / Engineering,Technical Lead,Senior Technical Lead,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20lulu%20meng%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/lulu-meng-823998138"
+  },
+  {
+    "id": "efc45a8ee532",
+    "rawInput": "hcl-software.com,maxx.sutton@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Maxx,Sutton,IT / Engineering,Senior Software Engineer,Senior Software Engineer,,https://www.linkedin.com/in/anthonymaxxsutton,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20maxx%20sutton%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hcl-software.com,maxx.sutton@hcl-software.com,hcl-software.com,HCLSoftware,IN,,Noida,,,99,personal,1,{first}.{last},Maxx,Sutton,IT / Engineering,Senior Software Engineer,Senior Software Engineer,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20maxx%20sutton%20hcl-software,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/anthonymaxxsutton"
+  },
+  {
+    "id": "a2e05d910358",
+    "rawInput": "hotstar.com,elizabeth.dominic@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Elizabeth,Dominic,Marketing,Growth Marketing Manager,Growth Marketing,,https://www.linkedin.com/in/elizabeth-dominic,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20elizabeth%20dominic%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,elizabeth.dominic@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Elizabeth,Dominic,Marketing,Growth Marketing Manager,Growth Marketing,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20elizabeth%20dominic%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/elizabeth-dominic"
+  },
+  {
+    "id": "e373e360ce3e",
+    "rawInput": "hotstar.com,dilip.menda@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Dilip,Menda,Sales,Sales Director,National Sales Director (Food & Beverage | Auto | BFSI),,https://www.linkedin.com/in/dilip-menda-1889084,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20dilip%20menda%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,dilip.menda@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Dilip,Menda,Sales,Sales Director,National Sales Director (Food & Beverage | Auto | BFSI),,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20dilip%20menda%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/dilip-menda-1889084"
+  },
+  {
+    "id": "12e8d6b34588",
+    "rawInput": "hotstar.com,kashish.vohra@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Kashish,Vohra,Marketing,Digital Advertising Sales Manager,Digital Ad Sales Manager - LCS (BFSI and Fintech),,https://www.linkedin.com/in/kashish-vohra-b7a56a41,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20kashish%20vohra%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,kashish.vohra@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Kashish,Vohra,Marketing,Digital Advertising Sales Manager,Digital Ad Sales Manager - LCS (BFSI and Fintech),,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20kashish%20vohra%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/kashish-vohra-b7a56a41"
+  },
+  {
+    "id": "73cf1bbe416c",
+    "rawInput": "hotstar.com,karna.vora@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Karna,Vora,Marketing,Growth Marketing Manager,Growth Marketing Manager,,https://www.linkedin.com/in/karna-vora-7470b297,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20karna%20vora%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,karna.vora@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Karna,Vora,Marketing,Growth Marketing Manager,Growth Marketing Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20karna%20vora%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/karna-vora-7470b297"
+  },
+  {
+    "id": "d672fd7c7289",
+    "rawInput": "hotstar.com,himanshu.singhal@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Himanshu,Singhal,Finance,Accounts Director,Accounts Director - LCS Ad Sales and Key Accounts Management,,https://www.linkedin.com/in/himanshusinghal777,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20himanshu%20singhal%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,himanshu.singhal@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Himanshu,Singhal,Finance,Accounts Director,Accounts Director - LCS Ad Sales and Key Accounts Management,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20himanshu%20singhal%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/himanshusinghal777"
+  },
+  {
+    "id": "e942c30a43f6",
+    "rawInput": "hotstar.com,prasanth.ravi@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Prasanth,Ravi,Marketing,Marketing Manager,Marketing Manager,,https://www.linkedin.com/in/prasanth-ravi-068507188,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20prasanth%20ravi%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,prasanth.ravi@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Prasanth,Ravi,Marketing,Marketing Manager,Marketing Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20prasanth%20ravi%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/prasanth-ravi-068507188"
+  },
+  {
+    "id": "67f04ebc6a43",
+    "rawInput": "hotstar.com,vidhi.shah@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Vidhi,Shah,Marketing,Marketing Lead,Marketing Lead- India Originals & Movies,,https://www.linkedin.com/in/vidhi-shah-33101089,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20vidhi%20shah%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,vidhi.shah@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Vidhi,Shah,Marketing,Marketing Lead,Marketing Lead- India Originals & Movies,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20vidhi%20shah%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/vidhi-shah-33101089"
+  },
+  {
+    "id": "9f7e89fb0b54",
+    "rawInput": "hotstar.com,seema.kamath@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Seema,Kamath,Marketing,Marketing Manager,Marketing Manager,,https://www.linkedin.com/in/seema-kamath-255752249,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20seema%20kamath%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,seema.kamath@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Seema,Kamath,Marketing,Marketing Manager,Marketing Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20seema%20kamath%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/seema-kamath-255752249"
+  },
+  {
+    "id": "b291cc23b5f9",
+    "rawInput": "hotstar.com,sampath.anaparthi@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Sampath,Anaparthi,Marketing,Marketing Manager,Marketing Manager,,https://www.linkedin.com/in/sampathanaparthi,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sampath%20anaparthi%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,sampath.anaparthi@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Sampath,Anaparthi,Marketing,Marketing Manager,Marketing Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sampath%20anaparthi%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sampathanaparthi"
+  },
+  {
+    "id": "3e1ffc00ea31",
+    "rawInput": "hotstar.com,gaurav.upasani@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Gaurav,Upasani,Support,Inside Sales Representative,Inside Sales Consultant,,https://www.linkedin.com/in/gaurav-upasani-728014234,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20gaurav%20upasani%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "hotstar.com,gaurav.upasani@hotstar.com,hotstar.com,Disney+ Hotstar,IN,,Mumbai,,,99,personal,1,{first}.{last},Gaurav,Upasani,Support,Inside Sales Representative,Inside Sales Consultant,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20gaurav%20upasani%20hotstar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/gaurav-upasani-728014234"
+  },
+  {
+    "id": "48350d558715",
+    "rawInput": "razorpay.com,vedanshi.tulshyan@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Vedanshi,Tulshyan,Sales,HR Business Partner,HR Business Partner,,https://www.linkedin.com/in/vedanshi-tulshyan-1469a9a0,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20vedanshi%20tulshyan%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,vedanshi.tulshyan@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Vedanshi,Tulshyan,Sales,HR Business Partner,HR Business Partner,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20vedanshi%20tulshyan%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/vedanshi-tulshyan-1469a9a0"
+  },
+  {
+    "id": "11adf6019553",
+    "rawInput": "razorpay.com,queen.kakati@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Queen,Kakati,Management,Facilities Manager,Facility executive,,https://www.linkedin.com/in/queen-kakati-6085b623a,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20queen%20kakati%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,queen.kakati@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Queen,Kakati,Management,Facilities Manager,Facility executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20queen%20kakati%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/queen-kakati-6085b623a"
+  },
+  {
+    "id": "cafce84b5294",
+    "rawInput": "razorpay.com,sruti.oza@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Sruti,Oza,IT / Engineering,Technical Program Manager,Technical Program Manager,,https://www.linkedin.com/in/srutioza,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sruti%20oza%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,sruti.oza@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Sruti,Oza,IT / Engineering,Technical Program Manager,Technical Program Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sruti%20oza%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/srutioza"
+  },
+  {
+    "id": "dd6b55abae52",
+    "rawInput": "razorpay.com,rajeev.kesarwani@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Rajeev,Kesarwani,Sales,Senior Key Account Manager,Senior Key Account Manager,,https://www.linkedin.com/in/rajeev-kesarwani-a4580b22,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20rajeev%20kesarwani%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,rajeev.kesarwani@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Rajeev,Kesarwani,Sales,Senior Key Account Manager,Senior Key Account Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20rajeev%20kesarwani%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/rajeev-kesarwani-a4580b22"
+  },
+  {
+    "id": "a15db3e05d96",
+    "rawInput": "razorpay.com,kasturi.saha@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Kasturi,Saha,Operations & logistics,Assistant Manager,Associate Manager,,https://www.linkedin.com/in/kasturi-saha-030692,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20kasturi%20saha%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,kasturi.saha@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Kasturi,Saha,Operations & logistics,Assistant Manager,Associate Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20kasturi%20saha%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/kasturi-saha-030692"
+  },
+  {
+    "id": "de2a2c55c368",
+    "rawInput": "razorpay.com,vikash.k@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Vikash,Kumar,Sales,Sales Manager,Area Sales Manager,,https://www.linkedin.com/in/vikash-kumar-5b2920226,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20vikash%20kumar%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,vikash.k@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Vikash,Kumar,Sales,Sales Manager,Area Sales Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20vikash%20kumar%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/vikash-kumar-5b2920226"
+  },
+  {
+    "id": "49738d6eedb6",
+    "rawInput": "razorpay.com,pranali.churi@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Pranali,Churi,,\"Senior Manager, Channel Partnerships\",Senior Manager- Channel Partnerships,,https://www.linkedin.com/in/pranali-churi-63965659,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20pranali%20churi%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,pranali.churi@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Pranali,Churi,,\"Senior Manager, Channel Partnerships\",Senior Manager- Channel Partnerships,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20pranali%20churi%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/pranali-churi-63965659"
+  },
+  {
+    "id": "acd3ad6d8a55",
+    "rawInput": "razorpay.com,m.razvi@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Mudassir,Razvi,IT / Engineering,Engineering Manager,Engineering Manager,,https://www.linkedin.com/in/mudassirazvi,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20mudassir%20razvi%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,m.razvi@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Mudassir,Razvi,IT / Engineering,Engineering Manager,Engineering Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20mudassir%20razvi%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/mudassirazvi"
+  },
+  {
+    "id": "bc17f7d516a0",
+    "rawInput": "razorpay.com,shyamala.pai@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Shyamala,Pai,Management,Product Manager,Product Manager,,https://www.linkedin.com/in/shyamala-pai,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20shyamala%20pai%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,shyamala.pai@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Shyamala,Pai,Management,Product Manager,Product Manager,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20shyamala%20pai%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/shyamala-pai"
+  },
+  {
+    "id": "2914c256b54b",
+    "rawInput": "razorpay.com,girish.rajappa@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Girish,Rajappa,Finance,Finance Manager,Assistant Manager Finance,,https://www.linkedin.com/in/girish-rajappa-98397b126,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20girish%20rajappa%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "razorpay.com,girish.rajappa@razorpay.com,razorpay.com,Razorpay,IN,,Bengaluru,,,99,personal,1,{first}.{last},Girish,Rajappa,Finance,Finance Manager,Assistant Manager Finance,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20girish%20rajappa%20razorpay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/girish-rajappa-98397b126"
+  },
+  {
+    "id": "8aa56170d265",
+    "rawInput": "inventateq.com,shaik@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,94,personal,1,{first},Shaik,Zainab,Marketing,Digital Marketing Manager,Digital Marketing Executive,,https://www.linkedin.com/in/shaik-zainab-82935a20b,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20shaik%20zainab%20inventateq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "inventateq.com,shaik@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,94,personal,1,{first},Shaik,Zainab,Marketing,Digital Marketing Manager,Digital Marketing Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20shaik%20zainab%20inventateq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/shaik-zainab-82935a20b"
+  },
+  {
+    "id": "e2fb637d071e",
+    "rawInput": "inventateq.com,soumya@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,93,personal,1,{first},Soumya,A,Marketing,Digital Marketing Manager,Digital Marketing Executive,,https://www.linkedin.com/in/soumya-a-997725266,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20soumya%20a%20inventateq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "inventateq.com,soumya@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,93,personal,1,{first},Soumya,A,Marketing,Digital Marketing Manager,Digital Marketing Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20soumya%20a%20inventateq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/soumya-a-997725266"
+  },
+  {
+    "id": "86502e6fb7f7",
+    "rawInput": "inventateq.com,sunil@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,92,personal,1,{first},Sunil,Sabarad,HR,Human Resources Manager,Human Resources Executive,,https://www.linkedin.com/in/sunil-sabarad-7546a1163,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sunil%20sabarad%20inventateq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "inventateq.com,sunil@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,92,personal,1,{first},Sunil,Sabarad,HR,Human Resources Manager,Human Resources Executive,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20sunil%20sabarad%20inventateq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sunil-sabarad-7546a1163"
+  },
+  {
+    "id": "cadbe75975f0",
+    "rawInput": "inventateq.com,nayana@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,91,personal,1,{first},Nayana,Chandrashekaraiah,Sales,HR Business Partner,HR Business Partner,,https://www.linkedin.com/in/nayana-chandrashekaraiah-b459ba232,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20nayana%20chandrashekaraiah%20inventateq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "inventateq.com,nayana@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,91,personal,1,{first},Nayana,Chandrashekaraiah,Sales,HR Business Partner,HR Business Partner,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20nayana%20chandrashekaraiah%20inventateq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/nayana-chandrashekaraiah-b459ba232"
+  },
+  {
+    "id": "f75819a8427e",
+    "rawInput": "inventateq.com,info@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,90,generic,30,{first},,,Support,,,,,,privately held,Software Development,http://10pie.com/python-courses-in-bangalore,http://10pie.com/java-training-courses-in-bangalore,http://iide.co/blog/seo-courses-in-guntakal-junction,http://iide.co/blog/seo-courses-in-bellary,http://iide.co/blog/seo-courses-in-kozhikode,http://iide.co/blog/seo-courses-in-davangere,http://iide.co/blog/seo-courses-in-tirupati,http://ipubpro.com/top-7-content-writing-courses-in-bangalore-why-bangalore-is-the-best-choice-to-learn,http://inventateq.com/online-machine-learning-certification-training-courses.php,http://inventateq.com/machine-learning-training-course-delhi.php,http://bestcoursenews.com/content-writing-courses-in-bangalore,http://letfindout.com/inventateq_6037576038,http://reviewsreporter.com/business-analytics-courses-bangalore,http://mepcenters.com/autocad-courses-in-bangalore,http://siliconindia.com/training_institutes/inventateq--seo-informatica-sap-net-java-training-institute_-id-1499.html,http://siliconindia.com/training_institutes/inventateq--seo-informatica-sap-net-java-training-institute_-id-1498.html,http://siliconindia.com/training_institutes/inventateq_bangalore-id-3137.html,http://siliconindia.com/training_institutes/inventateq_bangalore_(jayanagare)-id-2555.html,http://siliconindia.com/training_institutes/inventateq_bangalore_(jayanagare)-id-2596.html,http://prontoarigato.sg/coding-classes-singapore/5,http://prontoarigato.sg/coding-classes-singapore/4,http://prontoarigato.sg/coding-classes-singapore,http://prontoarigato.sg/coding-classes-singapore/2,http://prontoarigato.sg/coding-classes-singapore/3,http://seotrainingpoint.com/blog/top-10-content-writing-courses-in-bangalore,http://swarnimtimes.com/business/become-an-expert-at-the-front-and-back-end-technologies-with-inventateq,http://nextwhatbusiness.com/content-writing-courses-in-bangalore,http://delhicoursestraininginstitute.com/python-courses-institute-delhi,http://delhicoursestraininginstitute.com/top-15-online-best-python-courses-institute-delhi,http://digitalgurukul.in/7-best-digital-marketing-institutes-vijayawada",
+    "companyHint": "inventateq.com,info@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,90,generic,30,{first},,,Support,,,,,,privately held,Software Development,,http://10pie.com/java-training-courses-in-bangalore,http://iide.co/blog/seo-courses-in-guntakal-junction,http://iide.co/blog/seo-courses-in-bellary,http://iide.co/blog/seo-courses-in-kozhikode,http://iide.co/blog/seo-courses-in-davangere,http://iide.co/blog/seo-courses-in-tirupati,http://ipubpro.com/top-7-content-writing-courses-in-bangalore-why-bangalore-is-the-best-choice-to-learn,http://inventateq.com/online-machine-learning-certification-training-courses.php,http://inventateq.com/machine-learning-training-course-delhi.php,http://bestcoursenews.com/content-writing-courses-in-bangalore,http://letfindout.com/inventateq_6037576038,http://reviewsreporter.com/business-analytics-courses-bangalore,http://mepcenters.com/autocad-courses-in-bangalore,http://siliconindia.com/training_institutes/inventateq--seo-informatica-sap-net-java-training-institute_-id-1499.html,http://siliconindia.com/training_institutes/inventateq--seo-informatica-sap-net-java-training-institute_-id-1498.html,http://siliconindia.com/training_institutes/inventateq_bangalore-id-3137.html,http://siliconindia.com/training_institutes/inventateq_bangalore_(jayanagare)-id-2555.html,http://siliconindia.com/training_institutes/inventateq_bangalore_(jayanagare)-id-2596.html,http://prontoarigato.sg/coding-classes-singapore/5,http://prontoarigato.sg/coding-classes-singapore/4,http://prontoarigato.sg/coding-classes-singapore,http://prontoarigato.sg/coding-classes-singapore/2,http://prontoarigato.sg/coding-classes-singapore/3,http://seotrainingpoint.com/blog/top-10-content-writing-courses-in-bangalore,http://swarnimtimes.com/business/become-an-expert-at-the-front-and-back-end-technologies-with-inventateq,http://nextwhatbusiness.com/content-writing-courses-in-bangalore,http://delhicoursestraininginstitute.com/python-courses-institute-delhi,http://delhicoursestraininginstitute.com/top-15-online-best-python-courses-institute-delhi,http://digitalgurukul.in/7-best-digital-marketing-institutes-vijayawada",
+    "website": "http://10pie.com/python-courses-in-bangalore"
+  },
+  {
+    "id": "7800e93e552d",
+    "rawInput": "inventateq.com,lakshmi@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,84,personal,1,{first},,,,,,,,,privately held,Software Development,http://how-blogz.blogspot.com/2010/01/inventateq-seo-ppc-training-institute.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "inventateq.com,lakshmi@inventateq.com,inventateq.com,Inventateq,IN,,Bengaluru,,,84,personal,1,{first},,,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://how-blogz.blogspot.com/2010/01/inventateq-seo-ppc-training-institute.html"
+  },
+  {
+    "id": "773a977e6d3b",
+    "rawInput": "videostori.io,piyush@videostori.io,videostori.io,Videostori,IN,,Noida,,,99,personal,1,{first},Piyush,Tyagi,Executive,Co-Founder,Co-Founder,,https://www.linkedin.com/in/piyush-tyagi-8602598,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20piyush%20tyagi%20videostori,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "videostori.io,piyush@videostori.io,videostori.io,Videostori,IN,,Noida,,,99,personal,1,{first},Piyush,Tyagi,Executive,Co-Founder,Co-Founder,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20piyush%20tyagi%20videostori,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/piyush-tyagi-8602598"
+  },
+  {
+    "id": "b97befe00f6e",
+    "rawInput": "videostori.io,kavinder@videostori.io,videostori.io,Videostori,IN,,Noida,,,98,personal,1,{first},Kavinder,Pawahanee,Executive,Co-Founder,Co-Founder,,https://www.linkedin.com/in/kavinder-pawahanee-a31a3111,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20kavinder%20pawahanee%20videostori,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "videostori.io,kavinder@videostori.io,videostori.io,Videostori,IN,,Noida,,,98,personal,1,{first},Kavinder,Pawahanee,Executive,Co-Founder,Co-Founder,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20kavinder%20pawahanee%20videostori,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/kavinder-pawahanee-a31a3111"
+  },
+  {
+    "id": "32513712df3f",
+    "rawInput": "videostori.io,sales@videostori.io,videostori.io,Videostori,IN,,Noida,,,77,generic,1,{first},,,Sales,,,,,,privately held,Software Development,http://videostori.io:443/contact-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "videostori.io,sales@videostori.io,videostori.io,Videostori,IN,,Noida,,,77,generic,1,{first},,,Sales,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://videostori.io:443/contact-us"
+  },
+  {
+    "id": "59d0aaf06151",
+    "rawInput": "rankwatch.com,supriya@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,94,personal,1,{first},Supriya,Savre,Marketing,Marketing Manager,Marketing Executive,,https://www.linkedin.com/in/supriya-savre-9a356814b,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20supriya%20savre%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,supriya@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,94,personal,1,{first},Supriya,Savre,Marketing,Marketing Manager,Marketing Executive,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20supriya%20savre%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/supriya-savre-9a356814b"
+  },
+  {
+    "id": "12ed9fffb3a3",
+    "rawInput": "rankwatch.com,bijaya@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,94,personal,1,{first},Bijaya,Kumar,IT / Engineering,Head of Technology,Tech Head,,https://www.linkedin.com/in/bijaya-kumar-62a55196,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20bijaya%20kumar%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,bijaya@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,94,personal,1,{first},Bijaya,Kumar,IT / Engineering,Head of Technology,Tech Head,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20bijaya%20kumar%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/bijaya-kumar-62a55196"
+  },
+  {
+    "id": "72ea89b43275",
+    "rawInput": "rankwatch.com,pooja@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,93,personal,1,{first},Pooja,Khandelwal,Marketing,\"Associate Vice President, Digital Marketing\",AVP Digital Marketing,,https://www.linkedin.com/in/pooja-khandelwal-13a852b9,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20pooja%20khandelwal%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,pooja@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,93,personal,1,{first},Pooja,Khandelwal,Marketing,\"Associate Vice President, Digital Marketing\",AVP Digital Marketing,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20pooja%20khandelwal%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/pooja-khandelwal-13a852b9"
+  },
+  {
+    "id": "622e4ffa8397",
+    "rawInput": "rankwatch.com,sahil.kakkar@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,93,personal,3,{first},Sahil,Kakkar,Executive,CEO,CEO/ Founder,,https://www.linkedin.com/in/sahilkakkar,,public company,Software Development,http://techwyse.com/blog/author/sahil-kakkar,http://techwyse.com/blog/search-engine-optimization/online-reviews-for-local-seo,https://www.google.com/search?q=site:linkedin.com%20sahil%20kakkar%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,sahil.kakkar@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,93,personal,3,{first},Sahil,Kakkar,Executive,CEO,CEO/ Founder,,,,public company,Software Development,http://techwyse.com/blog/author/sahil-kakkar,http://techwyse.com/blog/search-engine-optimization/online-reviews-for-local-seo,https://www.google.com/search?q=site:linkedin.com%20sahil%20kakkar%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sahilkakkar"
+  },
+  {
+    "id": "163fc26f966f",
+    "rawInput": "rankwatch.com,sarthak@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,92,personal,1,{first},Sarthak,Sawhney,Education,Director of Research,Head Of Research,,https://www.linkedin.com/in/sarthak-sawhney-a05aa714,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20sarthak%20sawhney%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,sarthak@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,92,personal,1,{first},Sarthak,Sawhney,Education,Director of Research,Head Of Research,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20sarthak%20sawhney%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/sarthak-sawhney-a05aa714"
+  },
+  {
+    "id": "045729edaa32",
+    "rawInput": "rankwatch.com,vaibhav@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,91,personal,1,{first},Vaibhav,Kakkar,Executive,Co-Founder,Co Founder,,https://www.linkedin.com/in/%f0%9f%8f%86-vaibhav-kakkar-494b0b3,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20vaibhav%20kakkar%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,vaibhav@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,91,personal,1,{first},Vaibhav,Kakkar,Executive,Co-Founder,Co Founder,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20vaibhav%20kakkar%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/%f0%9f%8f%86-vaibhav-kakkar-494b0b3"
+  },
+  {
+    "id": "2ebd71e4b012",
+    "rawInput": "rankwatch.com,jatin@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,90,personal,1,{first},Jatin,Dabas,,Senior SEO Specialist,Sr. SEO Executive,,https://www.linkedin.com/in/jatin-dabas-22b8b565,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20jatin%20dabas%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,jatin@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,90,personal,1,{first},Jatin,Dabas,,Senior SEO Specialist,Sr. SEO Executive,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20jatin%20dabas%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/jatin-dabas-22b8b565"
+  },
+  {
+    "id": "f4d18f3c0e8f",
+    "rawInput": "rankwatch.com,preetesh.bara@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,84,personal,1,{first},Preetesh,Bara,,SEO Specialist,SEO Executive,,https://www.linkedin.com/in/preetesh-bara-6a003a98,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20preetesh%20bara%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,preetesh.bara@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,84,personal,1,{first},Preetesh,Bara,,SEO Specialist,SEO Executive,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20preetesh%20bara%20rankwatch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/preetesh-bara-6a003a98"
+  },
+  {
+    "id": "ff02f6de78a4",
+    "rawInput": "rankwatch.com,sahil@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,84,personal,1,{first},,,,,,,,,public company,Software Development,http://social-hire.com/blog/small-business/how-to-turn-leads-on-social-media-into-customers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,sahil@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,84,personal,1,{first},,,,,,,,,public company,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://social-hire.com/blog/small-business/how-to-turn-leads-on-social-media-into-customers"
+  },
+  {
+    "id": "fe5eb8c3bdf7",
+    "rawInput": "rankwatch.com,guestpost@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,81,generic,5,{first},,,,,,,,,public company,Software Development,http://guest-posting-sites.com/blog/guest-posting,http://traffickite.com/guest-posting-sites-list,http://avenueads.com/list-2024-top-100-marketing-guest-blogging-websites-with-high-da-traffic-contributors-guidelines-contact-info,http://semupdates.com/list-top-digital-marketing-guest-blogs-with-da-traffic-guildelines-contact-information-updated,http://theinsightsnow.com/high-da-guest-posting-sites-with-emails-list,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "rankwatch.com,guestpost@rankwatch.com,rankwatch.com,RankWatch,IN,,Gurgaon,,,81,generic,5,{first},,,,,,,,,public company,Software Development,,http://traffickite.com/guest-posting-sites-list,http://avenueads.com/list-2024-top-100-marketing-guest-blogging-websites-with-high-da-traffic-contributors-guidelines-contact-info,http://semupdates.com/list-top-digital-marketing-guest-blogs-with-da-traffic-guildelines-contact-information-updated,http://theinsightsnow.com/high-da-guest-posting-sites-with-emails-list,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://guest-posting-sites.com/blog/guest-posting"
+  },
+  {
+    "id": "c7cc745711be",
+    "rawInput": "actiance.com,vagarwal@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,99,personal,2,{f}{last},Vikram,Agarwal,,\"\",\"\",\"\",\"\",\"\",privately held,Software Development,http://mail-archives.apache.org/mod_mbox/jackrabbit-dev/201302.mbox/%3CCAOFYJNa3QqXnMUBZzT3E977sWE4ygLA=+GZdHK+158NOLKU_+Q@mail.gmail.com%3E,http://mail-archives.apache.org/mod_mbox/jackrabbit-dev/201302.mbox/%3ccaofyjna3qqxnmubzzt3e977swe4ygla=+gzdhk+158nolku_+q@mail.gmail.com%3e,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "actiance.com,vagarwal@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,99,personal,2,{f}{last},Vikram,Agarwal,,\"\",\"\",\"\",\"\",\"\",privately held,Software Development,,http://mail-archives.apache.org/mod_mbox/jackrabbit-dev/201302.mbox/%3ccaofyjna3qqxnmubzzt3e977swe4ygla=+gzdhk+158nolku_+q@mail.gmail.com%3e,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://mail-archives.apache.org/mod_mbox/jackrabbit-dev/201302.mbox/%3CCAOFYJNa3QqXnMUBZzT3E977sWE4ygLA=+GZdHK+158NOLKU_+Q@mail.gmail.com%3E"
+  },
+  {
+    "id": "a6297605b915",
+    "rawInput": "actiance.com,jonusko@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,98,personal,1,{f}{last},John,Onusko,,\"\",\"\",\"\",\"\",\"\",privately held,Software Development,http://mail-archives.apache.org/mod_mbox/cassandra-user/201209.mbox/%3ccc6b4972.10731%25dean.hiller@nrel.gov%3e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "actiance.com,jonusko@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,98,personal,1,{f}{last},John,Onusko,,\"\",\"\",\"\",\"\",\"\",privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://mail-archives.apache.org/mod_mbox/cassandra-user/201209.mbox/%3ccc6b4972.10731%25dean.hiller@nrel.gov%3e"
+  },
+  {
+    "id": "9efa6c77f62c",
+    "rawInput": "actiance.com,jobrien@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,97,personal,1,{f}{last},Jim,Obrien,Legal,General Counsel,General Counsel,\"\",\"\",\"\",privately held,Software Development,http://drivesaversdatarecovery.com/hidden-gold-in-governance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "actiance.com,jobrien@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,97,personal,1,{f}{last},Jim,Obrien,Legal,General Counsel,General Counsel,\"\",\"\",\"\",privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://drivesaversdatarecovery.com/hidden-gold-in-governance"
+  },
+  {
+    "id": "ee260a67a76d",
+    "rawInput": "actiance.com,lstokoe@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,84,personal,1,{f}{last},,,,,,,,,privately held,Software Development,http://ndesc.org/cms/lib/mn07001525/centricity/domain/41/_aepa%20ifb%20018-a%20-%20technology%20catalog%20-%20audit%20packet.compressed.pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "actiance.com,lstokoe@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,84,personal,1,{f}{last},,,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://ndesc.org/cms/lib/mn07001525/centricity/domain/41/_aepa%20ifb%20018-a%20-%20technology%20catalog%20-%20audit%20packet.compressed.pdf"
+  },
+  {
+    "id": "190573d6a0c6",
+    "rawInput": "actiance.com,mmehta@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,84,personal,1,{f}{last},,,,,,,,,privately held,Software Development,http://pdfcoffee.com/master-mail-blast-file-pdf-free.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "actiance.com,mmehta@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,84,personal,1,{f}{last},,,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://pdfcoffee.com/master-mail-blast-file-pdf-free.html"
+  },
+  {
+    "id": "1bcb7c99a67a",
+    "rawInput": "actiance.com,smurthy@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,84,personal,1,{f}{last},,,,,,,,,privately held,Software Development,http://h1bdata.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "actiance.com,smurthy@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,84,personal,1,{f}{last},,,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://h1bdata.com/"
+  },
+  {
+    "id": "acb99dcbe345",
+    "rawInput": "actiance.com,info@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,83,generic,4,{f}{last},,,Support,,,,,,privately held,Software Development,http://slideshare.net/mosterman/using-email-file-social-media-and-mobile-archiving-to-grow-your-business,http://globenewswire.com/news-release/2014/09/18/1217465/0/en/actiance-extends-access-to-its-information-governance-tools.html,http://sortfolio.com/listings/20738-actiance-inc,http://slideshare.net/mosterman/orwp-0179,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "actiance.com,info@actiance.com,actiance.com,Actiance,IN,,Nagpur,,,83,generic,4,{f}{last},,,Support,,,,,,privately held,Software Development,,http://globenewswire.com/news-release/2014/09/18/1217465/0/en/actiance-extends-access-to-its-information-governance-tools.html,http://sortfolio.com/listings/20738-actiance-inc,http://slideshare.net/mosterman/orwp-0179,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://slideshare.net/mosterman/using-email-file-social-media-and-mobile-archiving-to-grow-your-business"
+  },
+  {
+    "id": "bdf085ee0c44",
+    "rawInput": "navthemes.com,enquiry@navthemes.com,navthemes.com,NavThemes,IN,,Jaipur,,,77,generic,3,,,,,,,,,,public company,Software Development,http://wp.qiyutech.tech/plugin/navthemes-lazy-load,http://wp.qiyutech.tech/plugin/navthemes-gutenberg-blocks,http://wp.qiyutech.tech/plugin/navthemes-employee-ratings,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "navthemes.com,enquiry@navthemes.com,navthemes.com,NavThemes,IN,,Jaipur,,,77,generic,3,,,,,,,,,,public company,Software Development,,http://wp.qiyutech.tech/plugin/navthemes-gutenberg-blocks,http://wp.qiyutech.tech/plugin/navthemes-employee-ratings,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://wp.qiyutech.tech/plugin/navthemes-lazy-load"
+  },
+  {
+    "id": "c01d41db5517",
+    "rawInput": "taragana.com,sales@taragana.com,taragana.com,Taragana,IN,,Kolkata,,,99,generic,10,{first}{last},,,Sales,,,,,,privately held,Software Development,http://tech.gaeatimes.com/index.php/archive/word-press-1-5-plugin-referer-bouncer,http://taragana.com/products/translator-plugin-gold/software,http://taragana.com/store,http://taragana.com/products/comment-guard-pro/software,http://taragana.com/products/translator-plugin-pro/software,http://tech.gaeatimes.com/index.php/archive/how-to-develop-automated-temparature-tracking-for-hospitals-and-buildings-hardware-and-software,http://tech.gaeatimes.com/index.php/archive/running-php-5x-on-windows-using-tomcat-4x-or-5x,http://tech.gaeatimes.com/index.php/archive/wordpress-15-hack-how-to-trim-the-fat-resource-hogging-dashboard-in-admin,http://tech.gaeatimes.com/index.php/archive/angsumans-translator-plugin-pro-for-wordpress-blogs-released,http://taragana.com/store/,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "taragana.com,sales@taragana.com,taragana.com,Taragana,IN,,Kolkata,,,99,generic,10,{first}{last},,,Sales,,,,,,privately held,Software Development,,http://taragana.com/products/translator-plugin-gold/software,http://taragana.com/store,http://taragana.com/products/comment-guard-pro/software,http://taragana.com/products/translator-plugin-pro/software,http://tech.gaeatimes.com/index.php/archive/how-to-develop-automated-temparature-tracking-for-hospitals-and-buildings-hardware-and-software,http://tech.gaeatimes.com/index.php/archive/running-php-5x-on-windows-using-tomcat-4x-or-5x,http://tech.gaeatimes.com/index.php/archive/wordpress-15-hack-how-to-trim-the-fat-resource-hogging-dashboard-in-admin,http://tech.gaeatimes.com/index.php/archive/angsumans-translator-plugin-pro-for-wordpress-blogs-released,http://taragana.com/store/,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://tech.gaeatimes.com/index.php/archive/word-press-1-5-plugin-referer-bouncer"
+  },
+  {
+    "id": "0b46ca85870a",
+    "rawInput": "taragana.com,support@taragana.com,taragana.com,Taragana,IN,,Kolkata,,,98,generic,2,{first}{last},,,Support,,,,,,privately held,Software Development,http://taragana.com/store,http://taragana.com/store/,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "taragana.com,support@taragana.com,taragana.com,Taragana,IN,,Kolkata,,,98,generic,2,{first}{last},,,Support,,,,,,privately held,Software Development,,http://taragana.com/store/,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://taragana.com/store"
+  },
+  {
+    "id": "2d9c0fd37cde",
+    "rawInput": "taragana.com,info@taragana.com,taragana.com,Taragana,IN,,Kolkata,,,97,generic,5,{first}{last},,,Support,,,,,,privately held,Software Development,http://blog.taragana.com/tag/haproxy,http://blog.taragana.com/tag/ssl,http://blog.taragana.com/tag/gogs,http://blog.taragana.com/category/microsoft,http://blog.taragana.com/tag/saas,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "taragana.com,info@taragana.com,taragana.com,Taragana,IN,,Kolkata,,,97,generic,5,{first}{last},,,Support,,,,,,privately held,Software Development,,http://blog.taragana.com/tag/ssl,http://blog.taragana.com/tag/gogs,http://blog.taragana.com/category/microsoft,http://blog.taragana.com/tag/saas,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://blog.taragana.com/tag/haproxy"
+  },
+  {
+    "id": "56d1a86ad2e7",
+    "rawInput": "taragana.com,angsuman@taragana.com,taragana.com,Taragana,IN,,Kolkata,,,96,personal,9,{first}{last},,,,,,,,,privately held,Software Development,http://tech.gaeatimes.com/index.php/archive/419-scams-now-made-in-asia,http://occkolkata.blogspot.com,http://taragana.blogspot.com/2002_06_21_archive.html,http://taragana.blogspot.com/2002/07/cvs-for-windows-nt-4-sp6-reason-for.html,http://taragana.blogspot.com/2002/04/how-to-improve-your-eyesight-by.html,http://taragana.blogspot.com/2002_12_05_archive.html,http://taragana.blogspot.com/2002_06_24_archive.html,http://lexxai.blogspot.com/2012/07/gateway-ping.html,http://mail-archives.apache.org/mod_mbox/poi-dev/200407.mbox/%3c20040724114959.6554.qmail@nagoya.betaversion.org%3e,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "taragana.com,angsuman@taragana.com,taragana.com,Taragana,IN,,Kolkata,,,96,personal,9,{first}{last},,,,,,,,,privately held,Software Development,,http://occkolkata.blogspot.com,http://taragana.blogspot.com/2002_06_21_archive.html,http://taragana.blogspot.com/2002/07/cvs-for-windows-nt-4-sp6-reason-for.html,http://taragana.blogspot.com/2002/04/how-to-improve-your-eyesight-by.html,http://taragana.blogspot.com/2002_12_05_archive.html,http://taragana.blogspot.com/2002_06_24_archive.html,http://lexxai.blogspot.com/2012/07/gateway-ping.html,http://mail-archives.apache.org/mod_mbox/poi-dev/200407.mbox/%3c20040724114959.6554.qmail@nagoya.betaversion.org%3e,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://tech.gaeatimes.com/index.php/archive/419-scams-now-made-in-asia"
+  },
+  {
+    "id": "3f44bd4da3a5",
+    "rawInput": "shoviv.com,ved@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,99,personal,1,{last}.{first},,,,,,,,,privately held,Software Development,\"http://swkong.com/card/computer_and_software/software,13149.html\",,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "shoviv.com,ved@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,99,personal,1,{last}.{first},,,,,,,,,privately held,Software Development,\",13149.html\",,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://swkong.com/card/computer_and_software/software"
+  },
+  {
+    "id": "24834c79ffd5",
+    "rawInput": "shoviv.com,pad@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,90,generic,2,{last}.{first},,,,,,,,,privately held,Software Development,http://shareware-seek.com/shareware/file/184888,\"http://swkong.com/card/computer_and_software/email_clouddrive,12159.html\",,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "shoviv.com,pad@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,90,generic,2,{last}.{first},,,,,,,,,privately held,Software Development,,\"http://swkong.com/card/computer_and_software/email_clouddrive,12159.html\",,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://shareware-seek.com/shareware/file/184888"
+  },
+  {
+    "id": "ccc724d20cd1",
+    "rawInput": "shoviv.com,u003esupport@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,79,generic,1,{last}.{first},,,Support,,,,,,privately held,Software Development,http://shoviv.com/blog/how-to-migrate-gmail-to-office-365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "shoviv.com,u003esupport@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,79,generic,1,{last}.{first},,,Support,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://shoviv.com/blog/how-to-migrate-gmail-to-office-365"
+  },
+  {
+    "id": "c0e6d986fbee",
+    "rawInput": "shoviv.com,suport@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,78,generic,1,{last}.{first},,,,,,,,,privately held,Software Development,http://shoviv.com/buy-mbox-to-office365.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "shoviv.com,suport@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,78,generic,1,{last}.{first},,,,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://shoviv.com/buy-mbox-to-office365.html"
+  },
+  {
+    "id": "829345408425",
+    "rawInput": "shoviv.com,contact@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,77,generic,1,{last}.{first},,,Support,,,,,,privately held,Software Development,http://shoviv.com/blog/migrate-shared-mailbox-to-microsoft-365-exchange-online,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "shoviv.com,contact@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,77,generic,1,{last}.{first},,,Support,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://shoviv.com/blog/migrate-shared-mailbox-to-microsoft-365-exchange-online"
+  },
+  {
+    "id": "2332cbd50db6",
+    "rawInput": "shoviv.com,hr@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,75,generic,1,{last}.{first},,,HR,,,,,,privately held,Software Development,http://bitdataconversion.com/career.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "shoviv.com,hr@shoviv.com,shoviv.com,Shoviv Software,IN,,Dehra Dūn,,,75,generic,1,{last}.{first},,,HR,,,,,,privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://bitdataconversion.com/career.html"
+  },
+  {
+    "id": "957cd7b51bc5",
+    "rawInput": "optimonk.com,csilla.kertesz@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,1,{first}.{last},Csilla,Kertész,Sales,Sales Representative,Sales Representative,,https://www.linkedin.com/in/csilla-kert%c3%a9sz-178845251,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20csilla%20kert%C3%A9sz%20optimonk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,csilla.kertesz@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,1,{first}.{last},Csilla,Kertész,Sales,Sales Representative,Sales Representative,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20csilla%20kert%C3%A9sz%20optimonk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/csilla-kert%c3%a9sz-178845251"
+  },
+  {
+    "id": "45b4d1c7fe91",
+    "rawInput": "optimonk.com,mercedesz.nemes@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,1,{first}.{last},Mercédesz,Nemes,Marketing,Product Marketing Manager,Product Marketing Team Lead,,https://www.linkedin.com/in/mercedesznemes,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20merc%C3%A9desz%20nemes%20optimonk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,mercedesz.nemes@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,1,{first}.{last},Mercédesz,Nemes,Marketing,Product Marketing Manager,Product Marketing Team Lead,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20merc%C3%A9desz%20nemes%20optimonk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/mercedesznemes"
+  },
+  {
+    "id": "f6f49b9cd454",
+    "rawInput": "optimonk.com,viktor.kardos@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,1,{first}.{last},Viktor,Kardos,,Conversion Rate Optimization Specialist,Conversion Rate Optimization Expert,,https://www.linkedin.com/in/viktor-kardos-14a935217,,public company,Software Development,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,viktor.kardos@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,1,{first}.{last},Viktor,Kardos,,Conversion Rate Optimization Specialist,Conversion Rate Optimization Expert,,,,public company,Software Development,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/viktor-kardos-14a935217"
+  },
+  {
+    "id": "595030f59a93",
+    "rawInput": "optimonk.com,barbara.bartucz@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,2,{first}.{last},Barbara,Bartucz,Marketing,Marketing Manager,Marketing Content Manager,,https://www.linkedin.com/in/barbara-bartucz-9aa437b6,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20barbara%20bartucz%20optimonk,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,barbara.bartucz@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,2,{first}.{last},Barbara,Bartucz,Marketing,Marketing Manager,Marketing Content Manager,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20barbara%20bartucz%20optimonk,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/barbara-bartucz-9aa437b6"
+  },
+  {
+    "id": "f8b0e3305511",
+    "rawInput": "optimonk.com,eric.melchor@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,7,{first}.{last},Eric,Melchor,,\"\",\"\",\"\",\"\",\"\",public company,Software Development,http://podcast.makeeachclickcount.com/category/improving-customer-experience,http://experimentnation.com/category/announcements,http://ecommercemarketingpodcast.com/page/10,http://podcast.makeeachclickcount.com/episodes/season/6,http://amazingfba.com/unlocking-higher-revenue-how-to-increase-aov-on-your-dtc-site-with-eric-melchor-of-optimonk,http://thedesignbusinessshow.com/224,http://ecommercemarketingpodcast.com/page/8,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,eric.melchor@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,7,{first}.{last},Eric,Melchor,,\"\",\"\",\"\",\"\",\"\",public company,Software Development,,http://experimentnation.com/category/announcements,http://ecommercemarketingpodcast.com/page/10,http://podcast.makeeachclickcount.com/episodes/season/6,http://amazingfba.com/unlocking-higher-revenue-how-to-increase-aov-on-your-dtc-site-with-eric-melchor-of-optimonk,http://thedesignbusinessshow.com/224,http://ecommercemarketingpodcast.com/page/8,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://podcast.makeeachclickcount.com/category/improving-customer-experience"
+  },
+  {
+    "id": "ebac0db40360",
+    "rawInput": "optimonk.com,kata.gazso@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,2,{first}.{last},Kata,Gazso,Executive,Chief Visionary Officer,CVO Expert,,https://www.linkedin.com/in/kata-gazso,,public company,Software Development,http://optimonk.com/how-myexcelonline-generated-22800-extra-revenue-with-optimonk,http://optimonk.com/blog/case-studies,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,kata.gazso@optimonk.com,optimonk.com,OptiMonk,IN,,,,,99,personal,2,{first}.{last},Kata,Gazso,Executive,Chief Visionary Officer,CVO Expert,,,,public company,Software Development,http://optimonk.com/how-myexcelonline-generated-22800-extra-revenue-with-optimonk,http://optimonk.com/blog/case-studies,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/kata-gazso"
+  },
+  {
+    "id": "90e83c9ba015",
+    "rawInput": "optimonk.com,csaba.zajdo@optimonk.com,optimonk.com,OptiMonk,IN,,,,,98,personal,1,{first}.{last},Csaba,Zajdó,Marketing,Chief Marketing Officer,CMO & Founder,,https://www.linkedin.com/in/csabazajdo,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20csaba%20zajd%C3%B3%20optimonk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,csaba.zajdo@optimonk.com,optimonk.com,OptiMonk,IN,,,,,98,personal,1,{first}.{last},Csaba,Zajdó,Marketing,Chief Marketing Officer,CMO & Founder,,,,public company,Software Development,https://www.google.com/search?q=site:linkedin.com%20csaba%20zajd%C3%B3%20optimonk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/csabazajdo"
+  },
+  {
+    "id": "0d056e2e77b3",
+    "rawInput": "optimonk.com,mark.majoros@optimonk.com,optimonk.com,OptiMonk,IN,,,,,98,personal,1,{first}.{last},Mark,Majoros,Management,Product Manager,Product Manager,,https://www.linkedin.com/in/mark-majoros-241479127,,public company,Software Development,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,mark.majoros@optimonk.com,optimonk.com,OptiMonk,IN,,,,,98,personal,1,{first}.{last},Mark,Majoros,Management,Product Manager,Product Manager,,,,public company,Software Development,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/mark-majoros-241479127"
+  },
+  {
+    "id": "71db73b83f07",
+    "rawInput": "optimonk.com,gergely.bohut@optimonk.com,optimonk.com,OptiMonk,IN,,,,,98,personal,1,{first}.{last},Gergely,Bohut,IT / Engineering,Software Tester,Software Tester,,https://www.linkedin.com/in/gergely-bohut-8275a6127,,public company,Software Development,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,gergely.bohut@optimonk.com,optimonk.com,OptiMonk,IN,,,,,98,personal,1,{first}.{last},Gergely,Bohut,IT / Engineering,Software Tester,Software Tester,,,,public company,Software Development,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/gergely-bohut-8275a6127"
+  },
+  {
+    "id": "8c08ed0feb26",
+    "rawInput": "optimonk.com,fruzsina.szegedi@optimonk.com,optimonk.com,OptiMonk,IN,,,,,98,personal,1,{first}.{last},Fruzsina,Szegedi,Education,Product Researcher,Product Researcher,,https://www.linkedin.com/in/fruzsina-szegedi-b387401b3,,public company,Software Development,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "optimonk.com,fruzsina.szegedi@optimonk.com,optimonk.com,OptiMonk,IN,,,,,98,personal,1,{first}.{last},Fruzsina,Szegedi,Education,Product Researcher,Product Researcher,,,,public company,Software Development,http://optimonk.com/about-us,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/fruzsina-szegedi-b387401b3"
+  },
+  {
+    "id": "a25c723644a5",
+    "rawInput": "tychesoftwares.com,priyanka@tychesoftwares.com,tychesoftwares.com,Tyche Softwares,IN,,Mumbai,,,99,personal,1,{first},Priyanka,Jagtap,,\"\",\"\",\"\",\"\",\"\",privately held,Software Development,http://beggary4.rssing.com/chan-3546515/all_p3229.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tychesoftwares.com,priyanka@tychesoftwares.com,tychesoftwares.com,Tyche Softwares,IN,,Mumbai,,,99,personal,1,{first},Priyanka,Jagtap,,\"\",\"\",\"\",\"\",\"\",privately held,Software Development,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://beggary4.rssing.com/chan-3546515/all_p3229.html"
+  },
+  {
+    "id": "aa7aa631c25d",
+    "rawInput": "tychesoftwares.com,vishal@tychesoftwares.com,tychesoftwares.com,Tyche Softwares,IN,,Mumbai,,,98,personal,10,{first},Vishal,Kothari,Executive,CEO,Founder & CEO,tovishalck,https://www.linkedin.com/in/vishal-kothari-78663a4,\"\",privately held,Software Development,http://loginslink.com/redirect-after-login-woocommerce,http://peacefulgrowth.com/wp-product-business-growth-with-vishal-kothari-black-friday-tips-price-strategies-and-life-balance,http://wpfactory.com/support/topic/version-is-not-up-to-date-why-dont-you-update,http://wpfactory.com/support/topic/ecb-rates-and-eth,https://www.google.com/search?q=site:linkedin.com%20vishal%20kothari%20tychesoftwares,http://slideshare.net/tovishalck82/importance-of-content-writing-marketing-for-plugin-developers,http://wpmayor.com/author/vishal,http://wpjuicer.com/dhara-shah-wordpress-interview,http://wparchives.com/turn-salon-site-booking-platform-wp-mayor,http://wparchives.com/transform-gym-booking-plugin-wp-mayor,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tychesoftwares.com,vishal@tychesoftwares.com,tychesoftwares.com,Tyche Softwares,IN,,Mumbai,,,98,personal,10,{first},Vishal,Kothari,Executive,CEO,Founder & CEO,tovishalck,,\"\",privately held,Software Development,http://loginslink.com/redirect-after-login-woocommerce,http://peacefulgrowth.com/wp-product-business-growth-with-vishal-kothari-black-friday-tips-price-strategies-and-life-balance,http://wpfactory.com/support/topic/version-is-not-up-to-date-why-dont-you-update,http://wpfactory.com/support/topic/ecb-rates-and-eth,https://www.google.com/search?q=site:linkedin.com%20vishal%20kothari%20tychesoftwares,http://slideshare.net/tovishalck82/importance-of-content-writing-marketing-for-plugin-developers,http://wpmayor.com/author/vishal,http://wpjuicer.com/dhara-shah-wordpress-interview,http://wparchives.com/turn-salon-site-booking-platform-wp-mayor,http://wparchives.com/transform-gym-booking-plugin-wp-mayor,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/vishal-kothari-78663a4"
+  },
+  {
+    "id": "a005f126f8c3",
+    "rawInput": "tychesoftwares.com,girish@tychesoftwares.com,tychesoftwares.com,Tyche Softwares,IN,,Mumbai,,,97,personal,1,{first},Girish,Karthik,Marketing,Growth Marketing Manager,Growth Marketer,,https://www.linkedin.com/in/girish-karthik-673b4397,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20girish%20karthik%20tychesoftwares,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tychesoftwares.com,girish@tychesoftwares.com,tychesoftwares.com,Tyche Softwares,IN,,Mumbai,,,97,personal,1,{first},Girish,Karthik,Marketing,Growth Marketing Manager,Growth Marketer,,,,privately held,Software Development,https://www.google.com/search?q=site:linkedin.com%20girish%20karthik%20tychesoftwares,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "https://www.linkedin.com/in/girish-karthik-673b4397"
+  },
+  {
+    "id": "541282076816",
+    "rawInput": "tychesoftwares.com,support@tychesoftwares.com,tychesoftwares.com,Tyche Softwares,IN,,Mumbai,,,95,generic,5,{first},,,Support,,,,,,privately held,Software Development,http://lt.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,http://ca.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,http://de.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,http://zh-hk.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,http://sk.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "companyHint": "tychesoftwares.com,support@tychesoftwares.com,tychesoftwares.com,Tyche Softwares,IN,,Mumbai,,,95,generic,5,{first},,,Support,,,,,,privately held,Software Development,,http://ca.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,http://de.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,http://zh-hk.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,http://sk.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "website": "http://lt.wordpress.org/plugins/product-delivery-date-for-woocommerce-lite"
+  },
+  {
+    "id": "0fe4502db9c9",
+    "rawInput": "https://razorpay.com",
+    "companyHint": "",
+    "website": "https://razorpay.com/"
+  },
+  {
+    "id": "11b0b97e153d",
+    "rawInput": "Zoho Corporation",
+    "companyHint": "Zoho Corporation",
+    "website": ""
+  },
+  {
+    "id": "2912f74aa157",
+    "rawInput": "https://freshworks.com",
+    "companyHint": "",
+    "website": "https://freshworks.com/"
+  },
+  {
+    "id": "319f2de047c5",
+    "rawInput": "Tata Consultancy Services",
+    "companyHint": "Tata Consultancy Services",
+    "website": ""
+  },
+  {
+    "id": "67f97a9fb4cb",
+    "rawInput": "infosys.com",
+    "companyHint": "",
+    "website": "https://infosys.com/"
+  },
+  {
+    "id": "57e4eea86397",
+    "rawInput": "HDFC Bank",
+    "companyHint": "HDFC Bank",
+    "website": ""
+  },
+  {
+    "id": "26003ff80357",
+    "rawInput": "https://zerodha.com",
+    "companyHint": "",
+    "website": "https://zerodha.com/"
+  },
+  {
+    "id": "aa91511a82b9",
+    "rawInput": "Reliance Industries",
+    "companyHint": "Reliance Industries",
+    "website": ""
+  }
+]
